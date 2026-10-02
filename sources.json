@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eamin Tv",
+    "slug": "eamin-tv",
+    "url": "https://eamintv.vercel.app/IPTV/Apps/Info/Channel_Data/Api/Channel_Data.json"
+  },
+  {
+    "name": "HK Tv",
+    "slug": "hk-tv",
+    "url": "https://gist.githubusercontent.com/hksarverhksarver-cmyk/fb2e462ce64c9253f23e34fcf25b5313/raw/gistfile1.txt",
+    "auto_group": true
+  }
+]
