@@ -1,0 +1,71 @@
+name: Update M3U Playlists
+
+on:
+  # প্রতি ৩০ মিনিটে নিজে নিজে চলবে
+  schedule:
+    - cron: "*/30 * * * *"
+  # হাতে চালানোর বাটন (Actions ট্যাব -> Run workflow)
+  workflow_dispatch:
+  # sources.json বা স্ক্রিপ্ট বদলালে সাথে সাথে চলবে
+  push:
+    paths:
+      - "sources.json"
+      - "scripts/**"
+      - ".github/workflows/update-playlists.yml"
+
+permissions:
+  contents: write
+
+# একসাথে দুইটা রান যেন ধাক্কা না খায়
+concurrency:
+  group: update-playlists
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate playlists
+        id: gen
+        run: python scripts/generate_playlists.py
+        continue-on-error: true   # একটা সোর্স ফেল করলেও বাকিগুলো কমিট হবে
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists
+
+          if git diff --cached --quiet; then
+            # কিছু বদলায়নি। তবে ৪৫ দিন কমিট না হলে GitHub স্কেজিউল বন্ধ করে দেয়,
+            # তাই এমন হলে একটা keepalive কমিট দিয়ে দেবে।
+            last=$(git log -1 --format=%ct)
+            now=$(date +%s)
+            if [ $((now - last)) -gt $((45 * 86400)) ]; then
+              git commit --allow-empty -m "chore: keepalive"
+            else
+              echo "কোনো পরিবর্তন নেই।"
+            fi
+          else
+            git commit -m "chore: update playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+          fi
+
+          # পুশ ফেল করলে ৩ বার চেষ্টা
+          for i in 1 2 3; do
+            git pull --rebase && git push && break || sleep 5
+          done
+
+      - name: Mark run as failed if any source failed
+        if: steps.gen.outcome == 'failure'
+        run: |
+          echo "এক বা একাধিক সোর্স ব্যর্থ হয়েছে, লগ দেখুন।"
+          exit 1
