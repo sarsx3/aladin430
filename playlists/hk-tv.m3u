@@ -275,7 +275,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Jhojpuri Cinema" tvg-logo="https://i.postimg.cc/Wzy7cxS6/images-(13).png" group-title="Movies",Jhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/hGYbNkjF/channels4-profile-(7).jpg" group-title="Movies",Sony Pix
-https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdrk6xq0vhn.gpcdn.net%2Flive%2Fpix_hd_abr%2Flive%2Fsony_pix_hd_720%2Fchunks.m3u8&exp=1791115580&sig=72473f74fc7d4a66
 #EXTINF:-1 tvg-name="MUSIC MASTII" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Music",MUSIC MASTII
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="YRF MUSIC" tvg-logo="https://i.ibb.co/hxyKXJvK/YRF-Music-2007.png" group-title="Music",YRF MUSIC
@@ -339,7 +339,7 @@ https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
 #EXTINF:-1 tvg-name="Zainabia Channel" tvg-logo="https://i.postimg.cc/hPkKDbHg/zainabia-channel-bhendi-bazar-mumbai-1eicwpnwbs-250.jpg" group-title="Islamic",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/7hbL9RYs/national-geographic-hero.jpg" group-title="Documentary",National Geographic
-https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1779283873&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b98710c5aef12640970c358e3a0472e5
+https://stream.dekhoprime.workers.dev/hls/2EO31BQAJrBtv2MscIK-n1FE_RRbxriNU5gcQAuUPHFV0HK1O81XOsIc8QHt1EHUh_q5PWraO6Tb_4qAq1b1O3ScgC3dyd_9npWgoOfT7RjeOGRdwME/sub.m3u8?u=http%3A%2F%2F51.75.127.199.nip.io%3A3141%2Fnatgeo%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-name="RONGEEN TV" tvg-logo="https://i.ibb.co/qMYwcmxf/Rongeen-TV-logo-with-slogan-2019.webp" group-title="Entertainment",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES MOVIE" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="Movies",GOLDMINES MOVIE
@@ -381,9 +381,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.
 #EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="https://i.postimg.cc/kg5Rc8mh/Colors-Cineplex.jpg" group-title="Movies",COLORS CINEPLEX
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-name="STAE MOVIES" tvg-logo="https://i.postimg.cc/HscMNM2D/Star-Movies-Select.png" group-title="Movies",STAE MOVIES
-http://66.102.126.10:8000/play/a020/index.m3u8
+https://stream.dplive.workers.dev/hls/O4TPTiog4jZLTp_Xom48tT26lnWUAFcpVucGEKC6YUbAEEBKddNKzLOOJEkaEtOa4k4Pg_Kb8sXIg0J_XBEIK2JEGemfcjalc4knPizkkYxwI1Sw7z3YXjjrMETDKRbYpBE/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="https://i.postimg.cc/8C1KwZC9/star-movies-logo-3-png.jpg" group-title="Movies",STAR MOVIES HD
-http://66.102.126.10:8000/play/a021/index.m3u8
+https://stream.dekhoprime.workers.dev/hls/p_z4g3rH_grceolf-YlZqvFLFiae0tnKRfKoJRgj7Z2IHEsWTIgKlsUpTGyY4ocuAo29d9lZH-N4V6Z7rg_SFYq8rSoYIUNXPOh2kI-5HYIwHs53ra4bAMcc/playlist.m3u8
 #EXTINF:-1 tvg-name="ZB CINEMA" tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="Movies",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="News",NEWS 24
