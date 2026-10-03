@@ -221,7 +221,7 @@ https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fb
 #EXTINF:-1 tvg-name="CHANNEL 52" tvg-logo="https://i.postimg.cc/tRwGm1s2/channels4-profile-(2).jpg" group-title="Entertainment",CHANNEL 52
 https://tvsen6.aynaott.com/channel52/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",TIKANA TV
-https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA SONAR" tvg-logo="https://i.postimg.cc/sDb6r7z0/channels4-profile-(3).jpg" group-title="Entertainment",ZEE BANGLA SONAR
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-name="Z Cinema" tvg-logo="https://i.postimg.cc/tJsrPS5f/images-(21).jpg" group-title="Movies",Z Cinema
@@ -303,7 +303,7 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://i.postimg.cc/DywHtkbw/2d1d6a00aed9cfb469595f76744b5ebd.png" group-title="Sports",Sony Sports 1
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://i.postimg.cc/wM6ZqnfZ/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.webp" group-title="Sports",Sony Sports 2
-https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/index.m3u8
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 3" tvg-logo="https://i.postimg.cc/4NwZ9Qp2/c063708662593e2a313084f6c0a3f496.png" group-title="Sports",Sony Sports 3
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten3_hd.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://i.postimg.cc/j2BqnvPw/20260916-151130.png" group-title="Sports",Sony Sports 5
