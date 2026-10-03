@@ -196,8 +196,8 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fpogo_sd_abr%2Findex.m3u8&exp=1791070354&sig=f3f334b37999fa7f
 #EXTINF:-1 tvg-name="Discovery Kids+" tvg-logo="https://i.postimg.cc/c4PLcPcg/20260916-020539.jpg" group-title="Kids",Discovery Kids+
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fdiscovery_kids_abr%2Findex.m3u8&exp=1791069634&sig=e73dc0b9cfce295c
-#EXTINF:-1 tvg-name="MOTO PATLO" tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="Kids",MOTO PATLO
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-name="NK TV Bangla" tvg-logo="https://i.postimg.cc/zX1WBG7V/20261004-005736.jpg" group-title="Entertainment",NK TV Bangla
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fnktv.smartstream.video%2Fsmartstream-us%2Fnkbangla%2Fnkbangla%2Fplaylist.m3u8&exp=1793656863&sig=3f88c547a92c99df
 #EXTINF:-1 tvg-name="JOO Music" tvg-logo="https://i.postimg.cc/Kjs5kRS6/sharelogo.png" group-title="Music",JOO Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Entertainment",SONY AATH
