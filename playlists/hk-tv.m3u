@@ -217,7 +217,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 #EXTINF:-1 tvg-name="JHANKAR TV" tvg-logo="https://i.postimg.cc/dV7bRJsd/Jhankartv.jpg" group-title="Entertainment",JHANKAR TV
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-name="দুরন্ত TV" tvg-logo="https://i.postimg.cc/mDbXjtsy/duronto.jpg" group-title="Kids",দুরন্ত TV
-https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fbox.bbaria.net%2FDurontoTV%2Ftracks-v1a1%2Fmono.m3u8&exp=1791134790&sig=18c116d658558143
 #EXTINF:-1 tvg-name="CHANNEL 52" tvg-logo="https://i.postimg.cc/tRwGm1s2/channels4-profile-(2).jpg" group-title="Entertainment",CHANNEL 52
 https://tvsen6.aynaott.com/channel52/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",TIKANA TV
@@ -349,7 +349,7 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link" group-title="Movies",GOLDMINES
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="SONY TV HD" tvg-logo="https://i.postimg.cc/xCp3zfbY/Sony-TV-new.png" group-title="Entertainment",SONY TV HD
-https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdrk6xq0vhn.gpcdn.net%2Flive%2Fsony_ent_sd_abr%2Findex.m3u8&exp=1791075521&sig=d13d48a3e1258055
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdrk6xq0vhn.gpcdn.net%2Flive%2Fsony_ent_sd_abr%2Findex.m3u8&exp=1791134909&sig=d9a4ba077c02c5ef
 #EXTINF:-1 tvg-name="NH BOLLY Flim" tvg-logo="https://i.postimg.cc/vB96HLz5/8228bc36611e03cd44fe1bcc0524cd79.png" group-title="Movies",NH BOLLY Flim
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-name="RKD STUDIO" tvg-logo="https://i.postimg.cc/pdT9nDQs/Rkd-studios.webp" group-title="Movies",RKD STUDIO
