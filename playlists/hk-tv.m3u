@@ -181,7 +181,7 @@ https://alixbd.com/playlistconfig/toffee.php?channel=Cartoon%20Network%20HD%20%2
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.postimg.cc/XYyJrTsS/20260927-221535.png" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-name="Pogo Kids+" tvg-logo="https://i.postimg.cc/3RqsTQNG/20260916-021015.jpg" group-title="Kids",Pogo Kids+
-https://bhoomtv.net/geo/live.m3u8?cid=559&chunks=BZSQ2i2yFxNTu0v5BX_6NveFtjcmcnL4K5Lbfw1YIRkBkb4MWAXiNB1f2rv0iEXoqA2-YeojVqX7lavaIku3PMabqucMibZ4lzHJTWt_j-XsnKEj0-OPosqus6Blk3JAOc1bO7cwIRKYPFmrr09kDWcEyWWmdN_la1MbQC1Ex3X3UVn_HV3xPAwj86sYtGS2Z8VlFgHqQAhHsjajVrUvQVUpXV3pL2AXvkZwMUHlLHcOe_Wf6puLXWSblTTLfMyK-diMvChbTX4D_zLDqeE-7Um7wAZgWA5SVxRuxfkPpKEUD-XcIKQR4VNHnJkxg-JMInTi1s9ujDBCEKu0spYL8-Jo9gzRTWngPKC46K8YhLc~&vtoken=st=1790346203~exp=1790346863~data=15902b159737711fc03546bec917144d8c264cf3~id=559~ip=167.233.120.134~hmac=8bef4561d5fc59a55e3ab1bfe4d4dc001862af26d7551a793ac2fa8c73b73c1f
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fpogo_sd_abr%2Findex.m3u8&exp=1791070354&sig=f3f334b37999fa7f
 #EXTINF:-1 tvg-name="Discovery Kids+" tvg-logo="https://i.postimg.cc/c4PLcPcg/20260916-020539.jpg" group-title="Kids",Discovery Kids+
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fdiscovery_kids_abr%2Findex.m3u8&exp=1791069634&sig=e73dc0b9cfce295c
 #EXTINF:-1 tvg-name="MOTO PATLO" tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="Kids",MOTO PATLO
