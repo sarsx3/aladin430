@@ -255,7 +255,7 @@ http://202.70.146.135:8000/play/a05z/64449143.m3u8
 #EXTINF:-1 tvg-name="Discover" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Entertainment",Discover
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Wild" tvg-logo="https://i.postimg.cc/Bbvz6D3Z/20261003-012906.jpg" group-title="Entertainment",Wild
-https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Famg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv%2Fplaylist%2Famg01775-amg01775c1-amgplt0343%2Fplaylist.m3u8&exp=1791066286&sig=88d6f0c8134a7b76
+https://dplive.dekhoprime.live/hls/PV0CdU0NCt5iWrxHvDmLXAQiI_OBQc1omE274Q7kKgMuKxce7LJutwBZqVgphDgp6I22g7tOuBzRON3FnH6Fz_GS6r7F0E3cJXcx4zWhd_XOCgNozm-VncGz/playlist.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/tT009W3d/20260930-214342.jpg" group-title="Documentary",Animal Planet
 https://alixbd.com/playlistconfig/toffee.php?channel=Animal%20Planet&raw=1
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/nhZCh9kV/20260930-214008.jpg" group-title="Documentary",Animal Planet HD
@@ -273,7 +273,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-name="B4U MOVIS" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="Movies",B4U MOVIS
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="HINDI HITS" tvg-logo="https://i.imgur.com/xgPKgJu.png" group-title="Music",HINDI HITS
-http://146.59.253.52:8080/hindihitshd/index.m3u8
+https://stream.dplive.workers.dev/hls/tPDDb7oEzgZYmNQ-sJ-rMAmu01gQwf-ChC7nuEX4ZYx8s0K5NCgTo0siyxzKS7c-JY51iWdKp40vKaATkpnz_eTeU2yPzTLLqI83KDEZCRxMvykAJoTTjzdv6Q/playlist.m3u8
 #EXTINF:-1 tvg-name="Jhojpuri Cinema" tvg-logo="https://i.postimg.cc/Wzy7cxS6/images-(13).png" group-title="Movies",Jhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/hGYbNkjF/channels4-profile-(7).jpg" group-title="Movies",Sony Pix
@@ -377,13 +377,13 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES MOVIE 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="Movies",GOLDMINES MOVIE 1
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-name="MADANI BANGLA" tvg-logo="https://i.ibb.co/Cpm5GKJZ/madanichannelbangla-1466448289-05.jpg" group-title="Islamic",MADANI BANGLA
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 #EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://i.postimg.cc/PrPSRLTC/akegkk.png" group-title="Entertainment",STAR PLUS HD
 https://dplive.dekhoprime.live/hls/Znam2NKT056-Ufa3Ywy5g6zNWZufJbmwEQpWfXk4drHep4SKMX-EzK_2lvZyThGviRbrlVrRUcU1trhR-8VZ48sWZX7f8BAEH0ABadGpngB8Mg_w/playlist.m3u8
 #EXTINF:-1 tvg-name="MOVIE S HINDI" tvg-logo="https://i.postimg.cc/LsCTDRwB/images-(6).png" group-title="Movies",MOVIE S HINDI
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="https://i.postimg.cc/kg5Rc8mh/Colors-Cineplex.jpg" group-title="Movies",COLORS CINEPLEX
-http://202.70.146.135:8000/play/a058/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-name="STAE MOVIES" tvg-logo="https://i.postimg.cc/HscMNM2D/Star-Movies-Select.png" group-title="Movies",STAE MOVIES
 https://stream.dplive.workers.dev/hls/O4TPTiog4jZLTp_Xom48tT26lnWUAFcpVucGEKC6YUbAEEBKddNKzLOOJEkaEtOa4k4Pg_Kb8sXIg0J_XBEIK2JEGemfcjalc4knPizkkYxwI1Sw7z3YXjjrMETDKRbYpBE/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="https://i.postimg.cc/8C1KwZC9/star-movies-logo-3-png.jpg" group-title="Movies",STAR MOVIES HD
@@ -401,7 +401,7 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="Entertainment",COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-name="NEXUS HD" tvg-logo="https://i.postimg.cc/0y91Wk7L/Nexus-Television-HD-logo.webp" group-title="Entertainment",NEXUS HD
-https://live-xo.lovable.app/api/public/stream?u=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fnexus_tv_abr%2Findex.m3u8
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="STAR NEWS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",STAR NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BANGLA TV" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Entertainment",BANGLA TV
