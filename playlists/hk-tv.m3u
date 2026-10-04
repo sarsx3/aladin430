@@ -239,7 +239,7 @@ https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="Music",MUSIC BANGLA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="9XM Music" tvg-logo="https://i.postimg.cc/4xJBnm5z/20260921-214002.png" group-title="Music",9XM Music
-https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fwiselp.wiseplayout.com%2F9XM%2Fmaster.m3u8&exp=1791065850&sig=19621b2498800c5f
+https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8?nocache=1784939471635
 #EXTINF:-1 tvg-name="RAJDHANI TV" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Entertainment",RAJDHANI TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="GRAMS" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Entertainment",GRAMS
@@ -252,6 +252,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Hindi" tvg-logo="https://i.postimg.cc/13rvtXnv/20260921-211005.jpg" group-title="Documentary",DISCOVERY Hindi
 http://202.70.146.135:8000/play/a05z/64449143.m3u8
+#EXTINF:-1 tvg-name="Discover" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Entertainment",Discover
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Wild" tvg-logo="https://i.postimg.cc/Bbvz6D3Z/20261003-012906.jpg" group-title="Entertainment",Wild
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Famg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv%2Fplaylist%2Famg01775-amg01775c1-amgplt0343%2Fplaylist.m3u8&exp=1791066286&sig=88d6f0c8134a7b76
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/tT009W3d/20260930-214342.jpg" group-title="Documentary",Animal Planet
