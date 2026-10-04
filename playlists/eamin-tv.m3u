@@ -224,7 +224,7 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002-232031.png" group-title="Documentory",Discovery HD
 http://103.141.70.136:8080/bdtv/restrem/51.m3u8
 #EXTINF:-1 tvg-name="National Geo HD" tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031-210443.png" group-title="Documentory",National Geo HD
-http://103.141.70.136:8080/bdtv/restrem/50.m3u8
+https://bdix.ottking.top:8082/NATGEO-HD/index.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentory",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports
