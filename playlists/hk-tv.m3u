@@ -21,7 +21,7 @@ https://dish.porosh.com.bd/hls/jtvnews.m3u8
 #EXTINF:-1 tvg-name="VISION TV" tvg-logo="https://i.postimg.cc/436nN9NJ/20260930-164805.jpg" group-title="Entertainment",VISION TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="CB 24 TV" tvg-logo="https://i.postimg.cc/6QXXJFdJ/20260930-231124.jpg" group-title="Entertainment",CB 24 TV
-https://global.ncare.live/cb24/cb24.stream/tracks-v1a1/mono.m3u8
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fglobal.ncare.live%2Fcb24%2Fcb24.stream%2Ftracks-v1a1%2Fmono.m3u8&exp=1793687054&sig=fa5c9e62bae0ccfc
 #EXTINF:-1 tvg-name="Shikor TV" tvg-logo="https://i.postimg.cc/Gp6sCFLw/20260930-234542.jpg" group-title="Entertainment",Shikor TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDg6NDE6NTIgUE0maGFzaF92YWx1ZT1KNUpHRGU4azRQVU9RVlF0dGFiWnVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-name="K TV Bangla" tvg-logo="https://i.postimg.cc/MKcNs4QG/20260925-165910.png" group-title="Entertainment",K TV Bangla
@@ -31,7 +31,7 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-name="Matri Bhumi" tvg-logo="https://i.postimg.cc/kGxkk90g/20260921-094625.jpg" group-title="Entertainment",Matri Bhumi
 http://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="JALSHA Bangla" tvg-logo="https://i.postimg.cc/jdwNgp3Q/20260928-172610.png" group-title="Entertainment",JALSHA Bangla
-https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdish.porosh.com.bd%2Fhls%2Fjalshabangla.m3u8&exp=1793687332&sig=d214afcafd43b119
 #EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://i.postimg.cc/rmYy52VP/ntv-channel-logo-png-seeklogo-396286.png" group-title="Entertainment",NTV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/XY5TNnT4/20260917-001526.png" group-title="Entertainment",Bangla TV
