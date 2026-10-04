@@ -227,16 +227,18 @@ http://103.141.70.136:8080/bdtv/restrem/51.m3u8
 http://103.141.70.136:8080/bdtv/restrem/50.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentory",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports
+http://sm-monirul.xyz/private/live/1LIVE/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports HD
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+#EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/31131/index.m3u8
 #EXTINF:-1 tvg-name="Ten Sports HD" tvg-logo="https://api.cirkletv.com/files/TEN_Sports_Logo_1788630363019_7ee7e594c57ede39.webp" group-title="Sports",Ten Sports HD
 https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
 #EXTINF:-1 tvg-name="Pk Sports HD" tvg-logo="https://api.cirkletv.com/files/cirkletv_1788630662666_88434d6a93a8f95f.webp" group-title="Sports",Pk Sports HD
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8
-#EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket

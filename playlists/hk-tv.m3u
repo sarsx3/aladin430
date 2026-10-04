@@ -134,7 +134,9 @@ https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ft
 https://alixbd.com/playlistconfig/toffee.php?channel=%26%20Pictures%20HD&raw=1
 #EXTINF:-1 tvg-name="BHI CHANNEL" tvg-logo="https://i.postimg.cc/xTrGdZXt/images-(12).png" group-title="Entertainment",BHI CHANNEL
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
-#EXTINF:-1 tvg-name="JALSHA MOVIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Movies",JALSHA MOVIS
+#EXTINF:-1 tvg-name="JALSHA Movis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Movies",JALSHA Movis
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
+#EXTINF:-1 tvg-name="JALSHA MOVIS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Movies",JALSHA MOVIS HD
 https://cdn.devm3u.top/server5/jalshamovies.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Entertainment",STAR JALSHA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
