@@ -23,7 +23,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-name="CB 24 TV" tvg-logo="https://i.postimg.cc/6QXXJFdJ/20260930-231124.jpg" group-title="Entertainment",CB 24 TV
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fglobal.ncare.live%2Fcb24%2Fcb24.stream%2Ftracks-v1a1%2Fmono.m3u8&exp=1793687054&sig=fa5c9e62bae0ccfc
 #EXTINF:-1 tvg-name="Shikor TV" tvg-logo="https://i.postimg.cc/Gp6sCFLw/20260930-234542.jpg" group-title="Entertainment",Shikor TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDg6NDE6NTIgUE0maGFzaF92YWx1ZT1KNUpHRGU4azRQVU9RVlF0dGFiWnVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI2IDEyOjI5OjQ3IFBNJmhhc2hfdmFsdWU9cUx6NDZvSTN6V0xWRW5NY2JSVHlndz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-name="K TV Bangla" tvg-logo="https://i.postimg.cc/MKcNs4QG/20260925-165910.png" group-title="Entertainment",K TV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-name="U Bangla" tvg-logo="https://i.postimg.cc/Qt9Y6KFv/20260925-170538.jpg" group-title="Entertainment",U Bangla
@@ -159,11 +159,11 @@ https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Kal" tvg-logo="https://i.postimg.cc/bw8F9QyR/20260914-083650.jpg" group-title="Entertainment",Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="SAGAMusic" tvg-logo="https://i.postimg.cc/prhBPd2V/20260914-083441.jpg" group-title="Music",SAGAMusic
-https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaHaryanvi/master.m3u8
 #EXTINF:-1 tvg-name="HK Music TV" tvg-logo="https://i.postimg.cc/DyHPjnJT/20260916-212002.jpg" group-title="Music",HK Music TV
 https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RANA MUSIC" tvg-logo="https://i.postimg.cc/YC7zK8RH/20260916-213242.jpg" group-title="Music",RANA MUSIC
-https://ranacable.duckdns.org/RanaCableMusic/tracks-v1a1/mono.m3u8
+https://ranacable.duckdns.org/RanaCableTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SGCN MUSIC" tvg-logo="https://i.postimg.cc/mZFYPKpw/20260916-213356.jpg" group-title="Music",SGCN MUSIC
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 #EXTINF:-1 tvg-name="8XM HD" tvg-logo="https://i.postimg.cc/63HLZS6j/8XM-Logo.png" group-title="Music",8XM HD
@@ -281,7 +281,7 @@ https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fd
 #EXTINF:-1 tvg-name="MUSIC MASTII" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Music",MUSIC MASTII
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="YRF MUSIC" tvg-logo="https://i.ibb.co/hxyKXJvK/YRF-Music-2007.png" group-title="Music",YRF MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
 #EXTINF:-1 tvg-name="DEEWANA MUSIC" tvg-logo="https://i.postimg.cc/Kc3k9KB4/images-(16).jpg" group-title="Music",DEEWANA MUSIC
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="MN MOVIE" tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="Movies",MN MOVIE
