@@ -256,6 +256,8 @@ https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.ap
 http://202.70.146.135:8000/play/a05z/64449143.m3u8
 #EXTINF:-1 tvg-name="Discover" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Entertainment",Discover
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="National" tvg-logo="https://i.postimg.cc/rs395VWM/20261006-005925.jpg" group-title="Entertainment",National
+https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.app%2Fapi%2Fplay%2FNational%2520Geographic.m3u8
 #EXTINF:-1 tvg-name="Wild" tvg-logo="https://i.postimg.cc/Bbvz6D3Z/20261003-012906.jpg" group-title="Entertainment",Wild
 https://dplive.dekhoprime.live/hls/PV0CdU0NCt5iWrxHvDmLXAQiI_OBQc1omE274Q7kKgMuKxce7LJutwBZqVgphDgp6I22g7tOuBzRON3FnH6Fz_GS6r7F0E3cJXcx4zWhd_XOCgNozm-VncGz/playlist.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/tT009W3d/20260930-214342.jpg" group-title="Documentary",Animal Planet
