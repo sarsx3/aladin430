@@ -251,7 +251,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="RUPASHI BANGLA" tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="Entertainment",RUPASHI BANGLA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Bangla" tvg-logo="https://i.postimg.cc/s1FhPY84/20260921-210945.jpg" group-title="Documentary",DISCOVERY Bangla
-http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
+https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.app%2Fapi%2Fplay%2FDiscovery%2520Bangla.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Hindi" tvg-logo="https://i.postimg.cc/13rvtXnv/20260921-211005.jpg" group-title="Documentary",DISCOVERY Hindi
 http://202.70.146.135:8000/play/a05z/64449143.m3u8
 #EXTINF:-1 tvg-name="Discover" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Entertainment",Discover
@@ -330,8 +330,8 @@ https://stream.dekhoprime.workers.dev/hls/goWtJ0VLmQIRWqeAzlZddO6VqFQcz_SQbudIgo
 http://mag.diamondtv.one/live/unur/rtdVDBNG2z/302020.m3u8
 #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="https://i.postimg.cc/RCgMHC46/20260916-145722.png" group-title="Sports",A SPORTS
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
-#EXTINF:-1 tvg-name="WW SPORTS" tvg-logo="https://i.postimg.cc/T3s5wPJp/ef9600b9-f201-4c55-82d9-2d96d3bf6aa3.png" group-title="Sports",WW SPORTS
-https://wave.rojatv.cloud/RSPORTS/tracks-v1a1/mono.m3u8?_t=1785652840048&token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-name="Unite8 SPORTS 1" tvg-logo="https://i.postimg.cc/KY6sh54F/20261006-003600.png" group-title="Sports",Unite8 SPORTS 1
+https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.app%2Fapi%2Fplay%2FUnite8%25201.m3u8
 #EXTINF:-1 tvg-name="PK SPORTS" tvg-logo="https://i.postimg.cc/8crwcYqj/images-(14).jpg" group-title="Sports",PK SPORTS
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-name="RADBULL TV" tvg-logo="https://i.postimg.cc/sX6kFtrR/Red-Bull-TV-logo.png" group-title="Entertainment",RADBULL TV
