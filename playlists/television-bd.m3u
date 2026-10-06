@@ -49,7 +49,7 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-id="ch_23" tvg-name="SRK TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SRK.webp?raw=true" group-title="Entertainment",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
 #EXTINF:-1 tvg-id="ch_24" tvg-name="Rajdhani" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Rajdhani.webp" group-title="Entertainment",Rajdhani
-https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_25" tvg-name="Nexus Television" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nexus%20Television.webp" group-title="Entertainment",Nexus Television
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="ch_26" tvg-name="Nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Entertainment",Nagorik
@@ -149,7 +149,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="ch_73" tvg-name="Enterr10 Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Enterr10%20Bangla.webp" group-title="Entertainment",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_74" tvg-name="Sony Aath" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Aath.webp" group-title="Entertainment",Sony Aath
-https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_75" tvg-name="Sun Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sun%20Bangla.webp" group-title="Entertainment",Sun Bangla
 http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 #EXTINF:-1 tvg-id="ch_76" tvg-name="Ruposhi Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ruposhi%20Bangla.webp" group-title="Entertainment",Ruposhi Bangla
@@ -165,29 +165,29 @@ http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="ch_81" tvg-name="Hum" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hum.webp" group-title="Entertainment",Hum
 http://103.135.253.32:8080/HUM-TV/index.m3u8
 #EXTINF:-1 tvg-id="ch_82" tvg-name="HUM Sitaray" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/hum%20Sitaray.webp" group-title="Entertainment",HUM Sitaray
-https://prod-linear-media.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_83" tvg-name="HUM Masala" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hum%20Masala.webp" group-title="Entertainment",HUM Masala
-https://prod-linear-media.toffeelive.com/cdn/live/hum_masala/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/hum_masala/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_84" tvg-name="Zee TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ZEE%20TV.webp" group-title="Entertainment",Zee TV
-https://prod-linear-media.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_85" tvg-name="&TV HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/&%20TV.webp" group-title="Entertainment",&TV HD
-https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_86" tvg-name="MTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/MTV.webp" group-title="Entertainment",MTV
 http://51.75.127.199:3141/mtvhd/index.m3u8
 #EXTINF:-1 tvg-id="ch_87" tvg-name="& Pictures HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/&Pictures.webp" group-title="Movies",& Pictures HD
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_88" tvg-name="Sony Kal" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Kal.webp" group-title="Entertainment",Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_89" tvg-name="Sony Sab" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sab.webp" group-title="Entertainment",Sony Sab
-https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_90" tvg-name="Sony Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Entertainment.webp" group-title="Entertainment",Sony Entertainment
 http://103.135.253.32:8080/SONY-ENTARTANMEN/index.m3u8
 #EXTINF:-1 tvg-id="ch_91" tvg-name="Sony Max" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Max.webp" group-title="Movies",Sony Max
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 #EXTINF:-1 tvg-id="ch_92" tvg-name="Sony Max 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_of_Sony_Max_1.jpg/500px-Logo_of_Sony_Max_1.jpg" group-title="Movies",Sony Max 1
-https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_93" tvg-name="Sony Max 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Max%202.webp" group-title="Movies",Sony Max 2
-https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_94" tvg-name="Shemaroo Bollywood Movie" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Shemaroo%20Bollywood.webp" group-title="Movies",Shemaroo Bollywood Movie
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_95" tvg-name="B4U Movies" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/B4U%20Movies.webp" group-title="Movies",B4U Movies
@@ -207,13 +207,13 @@ http://103.141.70.136:8080/bdtv/restrem/45.m3u8
 #EXTINF:-1 tvg-id="ch_102" tvg-name="Star Gold Select" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Gold%20Select.webp" group-title="Movies",Star Gold Select
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 #EXTINF:-1 tvg-id="ch_103" tvg-name="Zee Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Zee%20Cinema.webp" group-title="Movies",Zee Cinema
-https://prod-linear-media.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_104" tvg-name="HBO" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/HBO.webp" group-title="Entertainment",HBO
 https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1 tvg-id="ch_105" tvg-name="MN+" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/MN+.webp" group-title="Entertainment",MN+
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="ch_106" tvg-name="Sony Pix" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Pix.webp" group-title="Movies",Sony Pix
-https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
+https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
 #EXTINF:-1 tvg-id="ch_107" tvg-name="Movies Now" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Movies%20Now.webp" group-title="Movies",Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 #EXTINF:-1 tvg-id="ch_108" tvg-name="Star Movies" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Movies%20HD.webp" group-title="Movies",Star Movies
@@ -230,153 +230,155 @@ https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="ch_114" tvg-name="Music India" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Music_India.webp" group-title="Music",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
-#EXTINF:-1 tvg-id="ch_115" tvg-name="SGGN Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SGGN%20Music.webp" group-title="Music",SGGN Music
+#EXTINF:-1 tvg-id="ch_115" tvg-name="9XM" group-title="Music",9XM
+https://streams.tangotv.in/9XM/ORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ch_116" tvg-name="SGGN Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SGGN%20Music.webp" group-title="Music",SGGN Music
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
-#EXTINF:-1 tvg-id="ch_116" tvg-name="Jalsha Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Jalsha%20Bangla.webp" group-title="Entertainment",Jalsha Bangla
+#EXTINF:-1 tvg-id="ch_117" tvg-name="Jalsha Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Jalsha%20Bangla.webp" group-title="Entertainment",Jalsha Bangla
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
-#EXTINF:-1 tvg-id="ch_117" tvg-name="B4U Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/B4U%20Music.webp" group-title="Music",B4U Music
+#EXTINF:-1 tvg-id="ch_118" tvg-name="B4U Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/B4U%20Music.webp" group-title="Music",B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 tvg-id="ch_118" tvg-name="Deewana" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Deewana.webp" group-title="Entertainment",Deewana
+#EXTINF:-1 tvg-id="ch_119" tvg-name="Deewana" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Deewana.webp" group-title="Entertainment",Deewana
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch_119" tvg-name="Epic Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Epic%20Music.webp" group-title="Music",Epic Music
+#EXTINF:-1 tvg-id="ch_120" tvg-name="Epic Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Epic%20Music.webp" group-title="Music",Epic Music
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8
-#EXTINF:-1 tvg-id="ch_120" tvg-name="YRF Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/YRF%20Music.webp" group-title="Music",YRF Music
+#EXTINF:-1 tvg-id="ch_121" tvg-name="YRF Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/YRF%20Music.webp" group-title="Music",YRF Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_121" tvg-name="Balle Balle" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Balle%20Balle.webp" group-title="Music",Balle Balle
+#EXTINF:-1 tvg-id="ch_122" tvg-name="Balle Balle" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Balle%20Balle.webp" group-title="Music",Balle Balle
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
-#EXTINF:-1 tvg-id="ch_122" tvg-name="Hindi Hits HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hindi%20Hits.webp" group-title="Music",Hindi Hits HD
+#EXTINF:-1 tvg-id="ch_123" tvg-name="Hindi Hits HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hindi%20Hits.webp" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="ch_123" tvg-name="Zoom" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Zoom.webp" group-title="Music",Zoom
+#EXTINF:-1 tvg-id="ch_124" tvg-name="Zoom" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Zoom.webp" group-title="Music",Zoom
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd|clearkey_key_id=86edec9e3b7d4042a4d4a1ca14f847ee&clearkey_key=9def4315f0004019a3705bcb3cf30ca3
-#EXTINF:-1 tvg-id="ch_124" tvg-name="MN TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/MN%20TV.webp" group-title="Entertainment",MN TV
+#EXTINF:-1 tvg-id="ch_125" tvg-name="MN TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/MN%20TV.webp" group-title="Entertainment",MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="ch_125" tvg-name="Bengali Beats" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bengali%20Beats.webp" group-title="Music",Bengali Beats
+#EXTINF:-1 tvg-id="ch_126" tvg-name="Bengali Beats" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bengali%20Beats.webp" group-title="Music",Bengali Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch_126" tvg-name="Joo Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Joo%20Music.webp" group-title="Music",Joo Music
+#EXTINF:-1 tvg-id="ch_127" tvg-name="Joo Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Joo%20Music.webp" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_127" tvg-name="V2 Beat" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/V2%20Beat.webp" group-title="Entertainment",V2 Beat
+#EXTINF:-1 tvg-id="ch_128" tvg-name="V2 Beat" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/V2%20Beat.webp" group-title="Entertainment",V2 Beat
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_128" tvg-name="Cartoon Network" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Cartoon%20Network%20HD.webp" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="ch_129" tvg-name="Cartoon Network" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Cartoon%20Network%20HD.webp" group-title="Kids",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_129" tvg-name="Cartoon Network HD +" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Cartoon%20Network%20HD+.webp" group-title="Kids",Cartoon Network HD +
-https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_130" tvg-name="Nick" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick.webp" group-title="Kids",Nick
+#EXTINF:-1 tvg-id="ch_130" tvg-name="Cartoon Network HD +" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Cartoon%20Network%20HD+.webp" group-title="Kids",Cartoon Network HD +
+https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_131" tvg-name="Nick" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick.webp" group-title="Kids",Nick
 http://103.141.70.136:8080//bdtv/restrem/53.m3u8
-#EXTINF:-1 tvg-id="ch_131" tvg-name="Nick HD+" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick%20HD+.webp" group-title="Kids",Nick HD+
+#EXTINF:-1 tvg-id="ch_132" tvg-name="Nick HD+" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick%20HD+.webp" group-title="Kids",Nick HD+
 http://51.75.127.199:3141/nickhd/index.m3u8
-#EXTINF:-1 tvg-id="ch_132" tvg-name="Nick JR" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick%20Jr..webp" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-id="ch_133" tvg-name="Nick JR" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nick%20Jr..webp" group-title="Kids",Nick JR
 http://103.135.253.32:8080/NICK-Jr/index.m3u8
-#EXTINF:-1 tvg-id="ch_133" tvg-name="ZB Cartoon" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ZB%20Cartoon.webp" group-title="Kids",ZB Cartoon
+#EXTINF:-1 tvg-id="ch_134" tvg-name="ZB Cartoon" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ZB%20Cartoon.webp" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="ch_134" tvg-name="Hungama" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hungama.webp" group-title="Entertainment",Hungama
+#EXTINF:-1 tvg-id="ch_135" tvg-name="Hungama" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Hungama.webp" group-title="Entertainment",Hungama
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="ch_135" tvg-name="Disnep International" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20International.webp" group-title="Entertainment",Disnep International
+#EXTINF:-1 tvg-id="ch_136" tvg-name="Disnep International" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20International.webp" group-title="Entertainment",Disnep International
 http://202.70.146.135:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="ch_136" tvg-name="Disnep Channel" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20Channel.webp" group-title="Entertainment",Disnep Channel
+#EXTINF:-1 tvg-id="ch_137" tvg-name="Disnep Channel" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20Channel.webp" group-title="Entertainment",Disnep Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="ch_137" tvg-name="Disnep Jr." tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20JR..webp" group-title="Entertainment",Disnep Jr.
+#EXTINF:-1 tvg-id="ch_138" tvg-name="Disnep Jr." tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Disnep%20JR..webp" group-title="Entertainment",Disnep Jr.
 http://51.75.127.199:3141/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="ch_138" tvg-name="Zoo Moo" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Zoo%20Moo.webp" group-title="Entertainment",Zoo Moo
+#EXTINF:-1 tvg-id="ch_139" tvg-name="Zoo Moo" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Zoo%20Moo.webp" group-title="Entertainment",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="ch_139" tvg-name="Duronto TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Duronto%20TV.webp" group-title="Kids",Duronto TV
+#EXTINF:-1 tvg-id="ch_140" tvg-name="Duronto TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Duronto%20TV.webp" group-title="Kids",Duronto TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
-#EXTINF:-1 tvg-id="ch_140" tvg-name="Discovery Kids" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Kids.webp" group-title="Kids",Discovery Kids
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_141" tvg-name="WOW Kidz" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Wow%20Kidz.webp" group-title="Entertainment",WOW Kidz
+#EXTINF:-1 tvg-id="ch_141" tvg-name="Discovery Kids" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Kids.webp" group-title="Kids",Discovery Kids
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_142" tvg-name="WOW Kidz" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Wow%20Kidz.webp" group-title="Entertainment",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="ch_142" tvg-name="Minimax" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Minimax.webp" group-title="Entertainment",Minimax
+#EXTINF:-1 tvg-id="ch_143" tvg-name="Minimax" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Minimax.webp" group-title="Entertainment",Minimax
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
-#EXTINF:-1 tvg-id="ch_143" tvg-name="Space Toon" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Spacetoon.webp" group-title="Entertainment",Space Toon
+#EXTINF:-1 tvg-id="ch_144" tvg-name="Space Toon" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Spacetoon.webp" group-title="Entertainment",Space Toon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
-#EXTINF:-1 tvg-id="ch_144" tvg-name="POGO" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/POGO.webp" group-title="Kids",POGO
-https://prod-linear-media.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_145" tvg-name="Sony Yay" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SONY_YAY_2022_Logo.webp" group-title="Entertainment",Sony Yay
-https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_146" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CGTN.webp" group-title="Entertainment",CGTN
-https://prod-linear-media.toffeelive.com/cdn/live/cgtn/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_147" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CGTN%20Documentary.webp" group-title="Entertainment",CGTN Documentary
+#EXTINF:-1 tvg-id="ch_145" tvg-name="POGO" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/POGO.webp" group-title="Kids",POGO
+https://prod-linear-media.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_146" tvg-name="Sony Yay" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SONY_YAY_2022_Logo.webp" group-title="Entertainment",Sony Yay
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_147" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CGTN.webp" group-title="Entertainment",CGTN
+https://prod-linear-media.toffeelive.com/cdn/live/cgtn/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_148" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CGTN%20Documentary.webp" group-title="Entertainment",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-#EXTINF:-1 tvg-id="ch_148" tvg-name="DW News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/DW%20News.webp" group-title="News",DW News
+#EXTINF:-1 tvg-id="ch_149" tvg-name="DW News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/DW%20News.webp" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="ch_149" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CNA.webp" group-title="Entertainment",CNA
+#EXTINF:-1 tvg-id="ch_150" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CNA.webp" group-title="Entertainment",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="ch_150" tvg-name="CBS News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CBS%20News.webp" group-title="News",CBS News
+#EXTINF:-1 tvg-id="ch_151" tvg-name="CBS News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CBS%20News.webp" group-title="News",CBS News
 https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f1828a07-80a8-4a9c-a0dd-c387ddf9337b:SIN2/master.m3u8
-#EXTINF:-1 tvg-id="ch_151" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CNN.webp" group-title="Entertainment",CNN
-https://prod-linear-media.toffeelive.com/cdn/live/cnn/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_152" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TRT%20World.webp" group-title="Entertainment",TRT World
-https://prod-linear-media.toffeelive.com/cdn/live/trt_world/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_153" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BBC%20News.webp" group-title="News",BBC News
+#EXTINF:-1 tvg-id="ch_152" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/CNN.webp" group-title="Entertainment",CNN
+https://prod-linear-media.toffeelive.com/cdn/live/cnn/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_153" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TRT%20World.webp" group-title="Entertainment",TRT World
+https://prod-linear-media.toffeelive.com/cdn/live/trt_world/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_154" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BBC%20News.webp" group-title="News",BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 tvg-id="ch_154" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Al%20Jazeera.webp" group-title="Entertainment",Al Jazeera
+#EXTINF:-1 tvg-id="ch_155" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Al%20Jazeera.webp" group-title="Entertainment",Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="ch_155" tvg-name="National Geographic HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/National%20Geograhic%20HD.webp" group-title="Documentary",National Geographic HD
+#EXTINF:-1 tvg-id="ch_156" tvg-name="National Geographic HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/National%20Geograhic%20HD.webp" group-title="Documentary",National Geographic HD
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-id="ch_156" tvg-name="Wild HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Wild%20HD.webp" group-title="Entertainment",Wild HD
+#EXTINF:-1 tvg-id="ch_157" tvg-name="Wild HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Wild%20HD.webp" group-title="Entertainment",Wild HD
 http://27.116.22.53:5001/live/1332.m3u8
-#EXTINF:-1 tvg-id="ch_157" tvg-name="Animal Planet HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Animal%20Planet.webp" group-title="Documentary",Animal Planet HD
-https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_158" tvg-name="TLC HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TLC.webp" group-title="Entertainment",TLC HD
-https://prod-linear-media.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_159" tvg-name="Sony BBC Earth HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20BBC%20Earth.webp" group-title="Entertainment",Sony BBC Earth HD
-https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_160" tvg-name="Discovery Science" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Science%20HD.webp" group-title="Documentary",Discovery Science
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_161" tvg-name="Discovery Turbo" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Turbo.webp" group-title="Documentary",Discovery Turbo
+#EXTINF:-1 tvg-id="ch_158" tvg-name="Animal Planet HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Animal%20Planet.webp" group-title="Documentary",Animal Planet HD
+https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_159" tvg-name="TLC HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TLC.webp" group-title="Entertainment",TLC HD
+https://prod-linear-media.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_160" tvg-name="Sony BBC Earth HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20BBC%20Earth.webp" group-title="Entertainment",Sony BBC Earth HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_161" tvg-name="Discovery Science" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Science%20HD.webp" group-title="Documentary",Discovery Science
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_162" tvg-name="Discovery Turbo" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Turbo.webp" group-title="Documentary",Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd|clearkey_key_id=c011525969e44b99a86059dbb3cdf4e8&clearkey_key=6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-id="ch_162" tvg-name="Investigation Discovery HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Investigation.webp" group-title="Documentary",Investigation Discovery HD
-https://prod-linear-media.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_163" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery.webp" group-title="Documentary",Discovery
+#EXTINF:-1 tvg-id="ch_163" tvg-name="Investigation Discovery HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery%20Investigation.webp" group-title="Documentary",Investigation Discovery HD
+https://prod-linear-media.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_164" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Discovery.webp" group-title="Documentary",Discovery
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="ch_164" tvg-name="History TV 18 HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/History%20TV.webp" group-title="Entertainment",History TV 18 HD
+#EXTINF:-1 tvg-id="ch_165" tvg-name="History TV 18 HD" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/History%20TV.webp" group-title="Entertainment",History TV 18 HD
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="ch_165" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Love%20Nature.webp" group-title="Documentary",Love Nature
+#EXTINF:-1 tvg-id="ch_166" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Love%20Nature.webp" group-title="Documentary",Love Nature
 http://27.124.71.27/Love_Nature/index.m3u8
-#EXTINF:-1 tvg-id="ch_166" tvg-name="Travel XP" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Travel%20XP%20HD.webp" group-title="Documentary",Travel XP
+#EXTINF:-1 tvg-id="ch_167" tvg-name="Travel XP" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Travel%20XP%20HD.webp" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_167" tvg-name="T Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/T%20Sports.webp" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="ch_168" tvg-name="T Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/T%20Sports.webp" group-title="Sports",T Sports
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
-#EXTINF:-1 tvg-id="ch_168" tvg-name="PTV Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/PTV%20Sports.webp" group-title="Sports",PTV Sports
+#EXTINF:-1 tvg-id="ch_169" tvg-name="PTV Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/PTV%20Sports.webp" group-title="Sports",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch_169" tvg-name="Star Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="ch_170" tvg-name="Star Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="Sports",Star Sports 1
 http://103.141.70.136:8080/bdtv/restrem/39.m3u8
-#EXTINF:-1 tvg-id="ch_170" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="Sports",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="ch_171" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="Sports",Star Sports 1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="ch_171" tvg-name="Star Sports Select 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%201.webp" group-title="Sports",Star Sports Select 1
+#EXTINF:-1 tvg-id="ch_172" tvg-name="Star Sports Select 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%201.webp" group-title="Sports",Star Sports Select 1
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
-#EXTINF:-1 tvg-id="ch_172" tvg-name="Star Sports Select 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%202.webp" group-title="Sports",Star Sports Select 2
+#EXTINF:-1 tvg-id="ch_173" tvg-name="Star Sports Select 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%20Select%202.webp" group-title="Sports",Star Sports Select 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="ch_173" tvg-name="Star sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%202.webp" group-title="Sports",Star sports 2
+#EXTINF:-1 tvg-id="ch_174" tvg-name="Star sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%202.webp" group-title="Sports",Star sports 2
 http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8
-#EXTINF:-1 tvg-id="ch_174" tvg-name="A Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/A%20Sports.webp" group-title="Sports",A Sports
+#EXTINF:-1 tvg-id="ch_175" tvg-name="A Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/A%20Sports.webp" group-title="Sports",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 tvg-id="ch_175" tvg-name="Ten Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Sports.webp" group-title="Sports",Ten Sports
+#EXTINF:-1 tvg-id="ch_176" tvg-name="Ten Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Sports.webp" group-title="Sports",Ten Sports
 http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch_176" tvg-name="Ten Cricket" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Cricket.webp" group-title="Sports",Ten Cricket
-https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1791271821~Starts=1791268221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=f2fNJpuwZeqAjt6TrgpB2cwhcmT3w-rHfqzRsjqmYwA8qygTnUop8MGa1uiM8MWnnX796txNZqrDZ0dE_AucCw
-#EXTINF:-1 tvg-id="ch_177" tvg-name="Sony Ten Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%201.webp" group-title="Sports",Sony Ten Sports 1
+#EXTINF:-1 tvg-id="ch_177" tvg-name="Ten Cricket" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ten%20Cricket.webp" group-title="Sports",Ten Cricket
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1791298827~Starts=1791295227~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=dF3K2cIlrL00oUTUqBUpZL6zveQsMARWqNLrMQ3-BDlWHACka5D7osmNT_aoAiaBClGbfhBNm6Ex7CcOiJhiAA
+#EXTINF:-1 tvg-id="ch_178" tvg-name="Sony Ten Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%201.webp" group-title="Sports",Sony Ten Sports 1
 http://103.135.253.32:8080/TEN-1/index.m3u8
-#EXTINF:-1 tvg-id="ch_178" tvg-name="Sony Ten Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%202.webp" group-title="Sports",Sony Ten Sports 2
+#EXTINF:-1 tvg-id="ch_179" tvg-name="Sony Ten Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%202.webp" group-title="Sports",Sony Ten Sports 2
 http://103.135.253.32:8080/TEN-2/index.m3u8
-#EXTINF:-1 tvg-id="ch_179" tvg-name="Sony Ten Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%203.webp" group-title="Sports",Sony Ten Sports 3
+#EXTINF:-1 tvg-id="ch_180" tvg-name="Sony Ten Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Sports%20Ten%203.webp" group-title="Sports",Sony Ten Sports 3
 http://103.135.253.32:8080/TEN-3/index.m3u8
-#EXTINF:-1 tvg-id="ch_180" tvg-name="Sony Ten Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Ten%20Sports%205.webp" group-title="Sports",Sony Ten Sports 5
+#EXTINF:-1 tvg-id="ch_181" tvg-name="Sony Ten Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sony%20Ten%20Sports%205.webp" group-title="Sports",Sony Ten Sports 5
 http://103.135.253.32:8080/TEN-5/index.m3u8
-#EXTINF:-1 tvg-id="ch_181" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="Sports",Bein Sports 1
+#EXTINF:-1 tvg-id="ch_182" tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%201.webp" group-title="Sports",Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="ch_182" tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%202.webp" group-title="Sports",Bein Sports 2
+#EXTINF:-1 tvg-id="ch_183" tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%202.webp" group-title="Sports",Bein Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="ch_183" tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%203.webp" group-title="Sports",Bein Sports 3
+#EXTINF:-1 tvg-id="ch_184" tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%203.webp" group-title="Sports",Bein Sports 3
 http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 tvg-id="ch_184" tvg-name="Bein Sports Xtra" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%20Sports%20Xtra.webp" group-title="Sports",Bein Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="ch_185" tvg-name="Willow Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Willow%20Sports.webp" group-title="Sports",Willow Sports
+#EXTINF:-1 tvg-id="ch_185" tvg-name="Bein Sports Xtra" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bein%20Sports%20Xtra.webp" group-title="Sports",Bein Sports Xtra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_186" tvg-name="Willow Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Willow%20Sports.webp" group-title="Sports",Willow Sports
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="ch_186" tvg-name="Unite8 Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Unite8%20Sports%201.webp" group-title="Sports",Unite8 Sports 1
+#EXTINF:-1 tvg-id="ch_187" tvg-name="Unite8 Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Unite8%20Sports%201.webp" group-title="Sports",Unite8 Sports 1
 http://103.135.253.32:8080/UNITED8-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="ch_187" tvg-name="Eurosport 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Eurosport%202.webp" group-title="Sports",Eurosport 2
+#EXTINF:-1 tvg-id="ch_188" tvg-name="Eurosport 2" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Eurosport%202.webp" group-title="Sports",Eurosport 2
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch_188" tvg-name="TYC Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TYC%20Sports.webp" group-title="Sports",TYC Sports
+#EXTINF:-1 tvg-id="ch_189" tvg-name="TYC Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/TYC%20Sports.webp" group-title="Sports",TYC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_189" tvg-name="Sky Sports Football" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sky%20Sports%20Football.webp" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-id="ch_190" tvg-name="Sky Sports Football" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sky%20Sports%20Football.webp" group-title="Sports",Sky Sports Football
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8#skym3u.dev
