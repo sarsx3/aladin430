@@ -29,7 +29,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-name="U Bangla" tvg-logo="https://i.postimg.cc/Qt9Y6KFv/20260925-170538.jpg" group-title="Entertainment",U Bangla
 https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-name="Matri Bhumi" tvg-logo="https://i.postimg.cc/kGxkk90g/20260921-094625.jpg" group-title="Entertainment",Matri Bhumi
-http://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
+https://live.playmax.live/matribhumi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="JALSHA Bangla" tvg-logo="https://i.postimg.cc/jdwNgp3Q/20260928-172610.png" group-title="Entertainment",JALSHA Bangla
 https://noisy-frost-934b.hksarverhksarver.workers.dev/stream?url=https%3A%2F%2Fdish.porosh.com.bd%2Fhls%2Fjalshabangla.m3u8&exp=1793687332&sig=d214afcafd43b119
 #EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://i.postimg.cc/rmYy52VP/ntv-channel-logo-png-seeklogo-396286.png" group-title="Entertainment",NTV HD
