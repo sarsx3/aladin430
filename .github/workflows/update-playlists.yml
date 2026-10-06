@@ -34,6 +34,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install pycryptodome
+
       - name: Generate playlists
         id: gen
         run: python scripts/generate_playlists.py
@@ -61,7 +64,7 @@ jobs:
 
           # পুশ ফেল করলে ৩ বার চেষ্টা
           for i in 1 2 3; do
-            git pull --rebase && git push && break || sleep 5
+            git pull --rebase && git push origin HEAD && break || sleep 5
           done
 
       - name: Mark run as failed if any source failed
