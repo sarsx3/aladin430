@@ -7,7 +7,14 @@
   {
     "name": "HK Tv",
     "slug": "hk-tv",
-    "url": "https://gist.githubusercontent.com/hksarverhksarver-cmyk/fb2e462ce64c9253f23e34fcf25b5313/raw/gistfile1.txt",
+    "url": "https://raw.githubusercontent.com/hksarverhksarver-cmyk/fb2e462ce64c9253f23e34fcf25b5313/raw/gistfile1.txt",
+    "auto_group": true
+  },
+  {
+    "name": "Television BD",
+    "slug": "television-bd",
+    "url": "https://raw.githubusercontent.com/television-app/television-data/main/playlist.json",
+    "encrypted": true,
     "auto_group": true
   }
 ]
