@@ -357,7 +357,7 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link" group-title="Movies",GOLDMINES
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="SONY TV HD" tvg-logo="https://i.postimg.cc/xCp3zfbY/Sony-TV-new.png" group-title="Entertainment",SONY TV HD
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+https://alixbd.com/playlistconfig/toffee.php?channel=Sony%20Entertainment%20Television%20HD&raw=1
 #EXTINF:-1 tvg-name="NH BOLLY Flim" tvg-logo="https://i.postimg.cc/vB96HLz5/8228bc36611e03cd44fe1bcc0524cd79.png" group-title="Movies",NH BOLLY Flim
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-name="RKD STUDIO" tvg-logo="https://i.postimg.cc/pdT9nDQs/Rkd-studios.webp" group-title="Movies",RKD STUDIO
@@ -367,7 +367,7 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-name="ULTRA" tvg-logo="https://i.postimg.cc/L506z7H4/channels4-profile-(5).jpg" group-title="Movies",ULTRA
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/YC0w3FmK/images.webp" group-title="Movies",Sony Max
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+https://alixbd.com/playlistconfig/toffee.php?channel=Sony%20MAX%20HD&raw=1
 #EXTINF:-1 tvg-name="Sony Mex 2" tvg-logo="https://i.postimg.cc/5tgvVSdZ/20260930-214812.jpg" group-title="Entertainment",Sony Mex 2
 https://alixbd.com/playlistconfig/toffee.php?channel=Sony%20MAX%202&raw=1
 #EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://i.postimg.cc/JhvbzFcQ/images-(24).jpg" group-title="Entertainment",SONY WAH
