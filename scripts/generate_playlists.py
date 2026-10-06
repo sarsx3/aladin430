@@ -9,7 +9,9 @@ sources.json এ থাকা প্রতিটি JSON লিংক থেক�
   * 𝗜𝘀𝗹𝗮𝗺𝗶𝗰 এর মতো বিশেষ ফন্টের অক্ষর সাধারণ অক্ষরে বদলায়
   * ক্যাটেগরি না থাকলে নাম দেখে নিজে গ্রুপ ঠিক করে (auto_group)
   * referer / user_agent থাকলে প্লেলিস্টে যোগ করে
+  * "encrypted": true হলে Television-style AES-CBC ডিক্রিপ্ট করে (pycryptodome)
 """
+import base64
 import json
 import os
 import re
@@ -25,37 +27,64 @@ OUT_DIR = Path(os.environ.get("OUT_DIR", ROOT / "playlists"))
 
 # JSON-এ ফিল্ডের নাম যা-ই হোক, এই তালিকা থেকে খুঁজে নেবে (ছোট/বড় হাতের অক্ষর কোনো ব্যাপার না)
 CANDIDATES = {
-    "name": ["name", "title", "channel_name", "channelname", "channel", "label", "chname"],
-    "url": ["url", "stream_url", "streamurl", "stream", "link", "source", "src", "m3u8",
-            "hls", "hls_url", "play_url", "playurl", "video_url", "videourl", "live_url", "streams"],
-    "logo": ["logo", "logo_url", "logourl", "image", "icon", "thumbnail", "thumb", "poster", "img"],
-    "group": ["group", "group_title", "category", "category_name", "genre"],
-    "id": ["id", "tvg_id", "channel_id", "channelid", "epg_id"],
+    "name":  ["name", "title", "channel_name", "channelname", "channel", "label", "chname", "n"],
+    "url":   ["url", "stream_url", "streamurl", "stream", "link", "source", "src", "m3u8",
+              "hls", "hls_url", "play_url", "playurl", "video_url", "videourl", "live_url", "streams", "u"],
+    "logo":  ["logo", "logo_url", "logourl", "image", "icon", "thumbnail", "thumb", "poster", "img", "l"],
+    "group": ["group", "group_title", "category", "category_name", "genre", "g"],
+    "id":    ["id", "tvg_id", "channel_id", "channelid", "epg_id", "i"],
     "user_agent": ["user_agent", "useragent", "user-agent", "ua"],
-    "referer": ["referer", "referrer", "http_referrer", "origin"],
+    "referer":    ["referer", "referrer", "http_referrer", "origin"],
     "license_type": ["license_type", "licensetype", "drm_scheme", "drm"],
-    "license_key": ["license_key", "licensekey", "clearkey", "drm_license"],
+    "license_key":  ["license_key", "licensekey", "clearkey", "drm_license"],
 }
 
 # auto_group চালু থাকলে চ্যানেলের নামে এই শব্দ থাকলে সেই গ্রুপে যাবে (ওপর থেকে নিচে মিলিয়ে দেখে)
 DEFAULT_GROUP_RULES = {
-    "Islamic": ["islamic", "quran", "quren", "peace tv", "madani", "azan", "iqra", "zainabia"],
-    "Kids": ["kids", "cartoon", "cn hd", "nick", "pogo", "doraemon", "tom and", "jungle book",
-             "wow kids", "moto patlo", "duronto", "দুরন্ত", "batul", "কার্টুন"],
-    "Sports": ["sport", "cricket", "dazn", "bein", "willow"],
-    "Music": ["music", "9xm", "8xm", "sangeet", "v2beat", "balle balle", "zoom", "yrf",
-              "dhoom", "beats", "hindi hits", "mastii"],
-    "Documentary": ["discovery", "animal planet", "national geo", "travel xp", "natur"],
-    "Movies": ["movi", "cinema", "b4u", "gold", "sony max", "sony pix", "star movies",
-               "cineplex", "bolly", "ultra", "pictures", "shemaroo", "sheemaroo",
-               "bhojpuri", "jhojpuri", "rkd studio", "manoranjan"],
-    "News": ["news", "somoy", "jamuna", "ekattor", "dbc", "independent", "akhone", "ekhon",
-             "channel 24", "sa tv", "saotv", "tbn 24", "jago"],
+    "Islamic":    ["islamic", "quran", "quren", "peace tv", "madani", "azan", "iqra", "zainabia"],
+    "Kids":       ["kids", "cartoon", "cn hd", "nick", "pogo", "doraemon", "tom and", "jungle book",
+                   "wow kids", "moto patlo", "duronto", "দুরন্ত", "batul", "কার্টুন"],
+    "Sports":     ["sport", "cricket", "dazn", "bein", "willow"],
+    "Music":      ["music", "9xm", "8xm", "sangeet", "v2beat", "balle balle", "zoom", "yrf",
+                   "dhoom", "beats", "hindi hits", "mastii"],
+    "Documentary":["discovery", "animal planet", "national geo", "travel xp", "natur"],
+    "Movies":     ["movi", "cinema", "b4u", "gold", "sony max", "sony pix", "star movies",
+                   "cineplex", "bolly", "ultra", "pictures", "shemaroo", "sheemaroo",
+                   "bhojpuri", "jhojpuri", "rkd studio", "manoranjan"],
+    "News":       ["news", "somoy", "jamuna", "ekattor", "dbc", "independent", "akhone", "ekhon",
+                   "channel 24", "sa tv", "saotv", "tbn 24", "jago"],
 }
 
 
 def log(msg):
     print(msg, flush=True)
+
+
+# ---------------------------------------------------------------- AES ডিক্রিপ্ট (Television-style)
+# sources.json-এ  "encrypted": true  থাকলে এই ফাংশন কাজ করবে।
+# pycryptodome না থাকলে workflow-এ  pip install pycryptodome  চালাতে হবে।
+_AES_KEY = b"T3l3v1s10n_S3cr3t_K3y_2026_@ppX".ljust(32, b"\x00")
+
+def decrypt_television(raw_bytes: bytes) -> str:
+    """
+    Base64 decode → প্রথম 16 বাইট IV → বাকিটা AES-256-CBC ciphertext → UTF-8 text।
+    """
+    try:
+        from Crypto.Cipher import AES
+        from Crypto.Util.Padding import unpad
+    except ImportError:
+        raise RuntimeError(
+            "pycryptodome ইনস্টল নেই। workflow-এ 'pip install pycryptodome' যোগ করুন।"
+        )
+    enc = base64.b64decode(raw_bytes)
+    iv, ct = enc[:16], enc[16:]
+    try:
+        plain = unpad(AES.new(_AES_KEY, AES.MODE_CBC, iv).decrypt(ct), 16)
+    except Exception:
+        # Fallback: static IV
+        static_iv = b"1234567890123456"
+        plain = unpad(AES.new(_AES_KEY, AES.MODE_CBC, static_iv).decrypt(enc), 16)
+    return plain.decode("utf-8")
 
 
 # ---------------------------------------------------------------- ডাউনলোড
@@ -68,7 +97,7 @@ def fetch_text(url, user_agent=None, retries=3, timeout=30):
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 raw = resp.read()
-            return raw.decode("utf-8-sig", errors="replace")
+            return raw  # bytes হিসেবে ফেরত দেওয়া হচ্ছে (encrypted সোর্সের জন্য)
         except Exception as e:  # noqa: BLE001
             last_err = e
             log(f"  চেষ্টা {attempt}/{retries} ব্যর্থ: {e}")
@@ -236,7 +265,7 @@ def build_m3u(entries, mapping, src):
 
         attrs = []
         cid = pick(ch, "id", mapping)
-        if cid and not cid.isdigit():  # শুধু সংখ্যার আইডি EPG-র কাজে লাগে না
+        if cid and not cid.isdigit():
             attrs.append(f'tvg-id="{clean(cid)}"')
         attrs.append(f'tvg-name="{name}"')
         logo = pick(ch, "logo", mapping).replace('"', "%22").replace(" ", "%20")
@@ -279,7 +308,14 @@ def process_source(src):
     out_file = OUT_DIR / f"{slug}.m3u"
     log(f"▶ {name} -> {out_file.name}")
 
-    text = fetch_text(url, user_agent=src.get("user_agent"))
+    raw = fetch_text(url, user_agent=src.get("user_agent"))
+
+    # ── Encrypted সোর্স (Television-style AES) ──────────────────────────────
+    if src.get("encrypted"):
+        log("  🔐 এনক্রিপ্টেড সোর্স, ডিক্রিপ্ট হচ্ছে…")
+        text = decrypt_television(raw)
+    else:
+        text = raw.decode("utf-8-sig", errors="replace")
 
     if text.lstrip().startswith("#EXTM3U"):  # আগে থেকেই M3U হলে সরাসরি রাখবে
         content = text if text.endswith("\n") else text + "\n"
@@ -318,7 +354,6 @@ def main():
         try:
             process_source(src)
         except Exception as e:  # noqa: BLE001
-            # একটা সোর্স ফেল করলে বাকিগুলো চলবে, আর পুরনো প্লেলিস্ট মুছবে না
             log(f"  ❌ ব্যর্থ: {e}")
             print(f"::error title={src.get('name')}::{e}")
             failed.append(src.get("name"))
