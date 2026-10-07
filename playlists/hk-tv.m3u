@@ -143,7 +143,7 @@ https://cdn.devm3u.top/server5/jalshamovies.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Entertainment",STAR JALSHA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/RCj2xWjt/20260926-234958.jpg" group-title="Movies",Star Gold
-https://stream.dplive.workers.dev/hls/pQbXAP6wrTiiGtBIXhrNs0SjtVwglJJgjhBUDfVdRbnsl408LEbDFKREk2-otvjT1f-HlQfggmUAXohJwgpIguMgJWHDhNeFY5OuoapcQTqvPieHE0p2ZA/sub.m3u8?u=http%3A%2F%2F51.75.127.199.nip.io%3A3141%2Fstargold%2Ftracks-v1a1%2Fmono.m3u8
+http://103.185.24.134:3001/Star-Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="AYNA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBhxAik9rvkpRV33kdDl-2drT2X3Y2cU_-lrjlMpmIxzBAGCN50afZnqx8vvxgmbaTVZmYITeOyTW1Fg_CAItfNfgRwsrTcxaB1pecb0Z74oky6LcgXFGIAOz8w8IijqMpMo4dUJ8aMsAF4A0x9Xwt57UCZYxhtEpRfOdqTzmfwVjICILOqg9QPbOFww/s1080/1000021053.png" group-title="Entertainment",AYNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="JONMOBHUMI TV" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="Entertainment",JONMOBHUMI TV
@@ -385,7 +385,7 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-name="MADANI BANGLA" tvg-logo="https://i.ibb.co/Cpm5GKJZ/madanichannelbangla-1466448289-05.jpg" group-title="Islamic",MADANI BANGLA
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 #EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://i.postimg.cc/PrPSRLTC/akegkk.png" group-title="Entertainment",STAR PLUS HD
-https://dplive.dekhoprime.live/hls/Znam2NKT056-Ufa3Ywy5g6zNWZufJbmwEQpWfXk4drHep4SKMX-EzK_2lvZyThGviRbrlVrRUcU1trhR-8VZ48sWZX7f8BAEH0ABadGpngB8Mg_w/playlist.m3u8
+http://103.185.24.134:3001/Star-Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MOVIE S HINDI" tvg-logo="https://i.postimg.cc/LsCTDRwB/images-(6).png" group-title="Movies",MOVIE S HINDI
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="https://i.postimg.cc/kg5Rc8mh/Colors-Cineplex.jpg" group-title="Movies",COLORS CINEPLEX
