@@ -172,6 +172,10 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-name="ZB CINEMA" tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="Movies",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-name="GRAMS" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Entertainment",GRAMS
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Tiger Media" tvg-logo="https://i.postimg.cc/vmRXMS8C/20260916-192553.jpg" group-title="Entertainment",Tiger Media
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="SANONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Entertainment",SANONDA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ZOOM MUSIC" tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="Music",ZOOM MUSIC
@@ -250,10 +254,6 @@ https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/index.m3u8
 #EXTINF:-1 tvg-name="QUREN TV" tvg-logo="https://i.postimg.cc/PfWrZz3Y/qnat-alqran-alkrym-svg.png" group-title="Islamic",QUREN TV
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-#EXTINF:-1 tvg-name="GRAMS" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Entertainment",GRAMS
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Tiger Media" tvg-logo="https://i.postimg.cc/vmRXMS8C/20260916-192553.jpg" group-title="Entertainment",Tiger Media
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Bangla" tvg-logo="https://i.postimg.cc/s1FhPY84/20260921-210945.jpg" group-title="Documentary",DISCOVERY Bangla
 https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.app%2Fapi%2Fplay%2FDiscovery%2520Bangla.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY Hindi" tvg-logo="https://i.postimg.cc/13rvtXnv/20260921-211005.jpg" group-title="Documentary",DISCOVERY Hindi
@@ -280,8 +280,6 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8ded49bb7e99514409772c85d44b971
 #EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="https://i.postimg.cc/7hbrx1Cq/images-(18).jpg" group-title="Sports",PTV SPORTS
 https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/PTV_SPORTS_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KHUSHBOO BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="Entertainment",KHUSHBOO BANGLA
-https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="Sports",BEIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="TEN CRICKET" tvg-logo="https://i.postimg.cc/sxbvw6HF/images-(9).png" group-title="Sports",TEN CRICKET
@@ -422,6 +420,8 @@ https://cdn.pishow.tv/ott/live/224/master.m3u8
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
 #EXTINF:-1 tvg-name="Manoranjan Grand" tvg-logo="https://i.postimg.cc/sgBDscPr/20260930-005414.jpg" group-title="Movies",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
+#EXTINF:-1 tvg-name="KHUSHBOO BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="Entertainment",KHUSHBOO BANGLA
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-name="Manoranjan TV" tvg-logo="https://i.postimg.cc/3x9CQ3BT/20260930-004444.jpg" group-title="Movies",Manoranjan TV
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 #EXTINF:-1 tvg-name="Manoranjan Prime" tvg-logo="https://i.postimg.cc/vZvX8rGL/20260930-004128.jpg" group-title="Movies",Manoranjan Prime
