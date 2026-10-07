@@ -130,10 +130,6 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Entertainment",ZEE BANGLA
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1 tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/dQfHh7fM/TV-HD-1-2.jpg" group-title="Entertainment",& TV HD
-https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/07974cdf-f629-4de8-8d76-4dc4e80a930d/5.m3u8
-#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://i.postimg.cc/CKQtmDr0/20260930-213229.jpg" group-title="Movies",& Pictures HD
-https://alixbd.com/playlistconfig/toffee.php?channel=%26%20Pictures%20HD&raw=1
 #EXTINF:-1 tvg-name="BHI CHANNEL" tvg-logo="https://i.postimg.cc/xTrGdZXt/images-(12).png" group-title="Entertainment",BHI CHANNEL
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 tvg-name="JALSHA Movis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Movies",JALSHA Movis
@@ -142,8 +138,6 @@ https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 https://cdn.devm3u.top/server5/jalshamovies.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Entertainment",STAR JALSHA
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/RCj2xWjt/20260926-234958.jpg" group-title="Movies",Star Gold
-http://103.185.24.134:3001/Star-Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="AYNA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBhxAik9rvkpRV33kdDl-2drT2X3Y2cU_-lrjlMpmIxzBAGCN50afZnqx8vvxgmbaTVZmYITeOyTW1Fg_CAItfNfgRwsrTcxaB1pecb0Z74oky6LcgXFGIAOz8w8IijqMpMo4dUJ8aMsAF4A0x9Xwt57UCZYxhtEpRfOdqTzmfwVjICILOqg9QPbOFww/s1080/1000021053.png" group-title="Entertainment",AYNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="JONMOBHUMI TV" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="Entertainment",JONMOBHUMI TV
@@ -154,14 +148,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Music" tvg-logo="https://i.postimg.cc/d1h5twwj/channels4-profile-(8).jpg" group-title="Music",Shemaroo Music
 https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-name="SHEMAROO JOSH" tvg-logo="https://i.postimg.cc/SN8yfWpJ/20260927-205146.jpg" group-title="Movies",SHEMAROO JOSH
-https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MUSIC Bangla" tvg-logo="https://i.postimg.cc/8cC3ZYZS/20261003-053713.jpg" group-title="Music",MUSIC Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ZB MUSIC" tvg-logo="https://i.postimg.cc/DyVchFz2/db6bac6d85113d0b667ee8bb14f1f2d9.png" group-title="Music",ZB MUSIC
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Kal" tvg-logo="https://i.postimg.cc/bw8F9QyR/20260914-083650.jpg" group-title="Entertainment",Sony Kal
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="SAGAMusic" tvg-logo="https://i.postimg.cc/prhBPd2V/20260914-083441.jpg" group-title="Music",SAGAMusic
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="HK Music TV" tvg-logo="https://i.postimg.cc/DyHPjnJT/20260916-212002.jpg" group-title="Music",HK Music TV
@@ -228,8 +218,6 @@ https://tvsen6.aynaott.com/channel52/index.m3u8#skym3u.dev
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA SONAR" tvg-logo="https://i.postimg.cc/sDb6r7z0/channels4-profile-(3).jpg" group-title="Entertainment",ZEE BANGLA SONAR
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-#EXTINF:-1 tvg-name="Z Cinema" tvg-logo="https://i.postimg.cc/tJsrPS5f/images-(21).jpg" group-title="Movies",Z Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-name="ZB কার্টুন" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Kids",ZB কার্টুন
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-name="Batul the" tvg-logo="https://i.postimg.cc/2jdgSVzX/20260927-194359.jpg" group-title="Kids",Batul the
@@ -380,6 +368,14 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-name="The Movie Club 2" tvg-logo="https://i.postimg.cc/4d8T10Tp/2d07140c-54ed-4e65-bfc8-18e803c5a8bf.png" group-title="Movies",The Movie Club 2
 https://cc-el8oh7stk6uz8.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el8oh7stk6uz8/da024f5d-822c-45b6-b087-7bc55fa04ed9/3.m3u8
+#EXTINF:-1 tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/dQfHh7fM/TV-HD-1-2.jpg" group-title="Entertainment",& TV HD
+https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/07974cdf-f629-4de8-8d76-4dc4e80a930d/5.m3u8
+#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://i.postimg.cc/CKQtmDr0/20260930-213229.jpg" group-title="Movies",& Pictures HD
+https://alixbd.com/playlistconfig/toffee.php?channel=%26%20Pictures%20HD&raw=1
+#EXTINF:-1 tvg-name="Z Cinema" tvg-logo="https://i.postimg.cc/tJsrPS5f/images-(21).jpg" group-title="Movies",Z Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-name="Z Cinema HD" tvg-logo="https://i.postimg.cc/rmCJFDNM/20261008-003626.jpg" group-title="Movies",Z Cinema HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/fLBPyQKV/sony-movies-logo.png" group-title="Movies",SONY MOVIES
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES MOVIE 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="Movies",GOLDMINES MOVIE 1
@@ -388,6 +384,8 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 #EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://i.postimg.cc/PrPSRLTC/akegkk.png" group-title="Entertainment",STAR PLUS HD
 http://103.185.24.134:3001/Star-Plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/RCj2xWjt/20260926-234958.jpg" group-title="Movies",Star Gold
+http://103.185.24.134:3001/Star-Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MOVIE S HINDI" tvg-logo="https://i.postimg.cc/LsCTDRwB/images-(6).png" group-title="Movies",MOVIE S HINDI
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="https://i.postimg.cc/kg5Rc8mh/Colors-Cineplex.jpg" group-title="Movies",COLORS CINEPLEX
@@ -396,6 +394,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="https://i.postimg.cc/8C1KwZC9/star-movies-logo-3-png.jpg" group-title="Movies",STAR MOVIES HD
 https://stream.dplive.workers.dev/hls/O4TPTiog4jZLTp_Xom48tT26lnWUAFcpVucGEKC6YUbAEEBKddNKzLOOJEkaEtOa4k4Pg_Kb8sXIg0J_XBEIK2JEGemfcjalc4knPizkkYxwI1Sw7z3YXjjrMETDKRbYpBE/playlist.m3u8
+#EXTINF:-1 tvg-name="SHEMAROO JOSH" tvg-logo="https://i.postimg.cc/SN8yfWpJ/20260927-205146.jpg" group-title="Movies",SHEMAROO JOSH
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Kal" tvg-logo="https://i.postimg.cc/bw8F9QyR/20260914-083650.jpg" group-title="Entertainment",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="ZB CINEMA" tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="Movies",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="News",NEWS 24
