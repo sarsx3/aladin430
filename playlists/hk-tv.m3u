@@ -334,6 +334,8 @@ http://mag.diamondtv.one/live/unur/rtdVDBNG2z/302020.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
 #EXTINF:-1 tvg-name="Unite8 SPORTS 1" tvg-logo="https://i.postimg.cc/KY6sh54F/20261006-003600.png" group-title="Sports",Unite8 SPORTS 1
 https://hmair.xyz/api/stream/proxy?url=https%3A%2F%2Ftoffe-scraper.up.railway.app%2Fapi%2Fplay%2FUnite8%25201.m3u8
+#EXTINF:-1 tvg-name="D Sports" tvg-logo="https://i.postimg.cc/QCPGQMvv/20261007-045614.jpg" group-title="Sports",D Sports
+https://dplive.dekhoprime.live/hls/UZ6_TROO0cpl3mxb-Btvsxz2S5d6L-P9nueMTIC8pRydlrFCWKhEdGzZi77KMB7YKJxpuPaRhC5kczj6sTuIHv82IKBlCEe25YBQkWcRQvBONmChLjUPuA/playlist.m3u8
 #EXTINF:-1 tvg-name="PK SPORTS" tvg-logo="https://i.postimg.cc/8crwcYqj/images-(14).jpg" group-title="Sports",PK SPORTS
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-name="RADBULL TV" tvg-logo="https://i.postimg.cc/sX6kFtrR/Red-Bull-TV-logo.png" group-title="Entertainment",RADBULL TV
