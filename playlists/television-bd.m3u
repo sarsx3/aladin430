@@ -369,7 +369,7 @@ http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-id="ch_183" tvg-name="Travel XP" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Travel%20XP%20HD.webp" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_184" tvg-name="T Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/T%20Sports.webp" group-title="Sports",T Sports
-http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
+http://103.151.60.162:2122/play/a030/32173397.m3u8
 #EXTINF:-1 tvg-id="ch_185" tvg-name="PTV Sports" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/PTV%20Sports.webp" group-title="Sports",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_186" tvg-name="Star Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Star%20Sports%201.webp" group-title="Sports",Star Sports 1
