@@ -100,6 +100,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalsha Bangla" tvg-logo="https://i.postimg.cc/FHM5wnxy/20260913-093445.png" group-title="Bangla",Jalsha Bangla
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 tvg-name="Channel 1 HD" tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="Bangla",Channel 1 HD
+https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/nV38nLkH/20260913-092507.png" group-title="Bangla",Channel S
+https://box.bbaria.net:8083/ChannelS/video.m3u8
 #EXTINF:-1 tvg-name="Green TV" tvg-logo="https://i.postimg.cc/CMcywKNw/20260913-091922.png" group-title="Bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="MatriBhumi TV" tvg-logo="https://i.postimg.cc/g0xWsM0M/20260930-231840.png" group-title="Bangla",MatriBhumi TV
@@ -222,25 +226,25 @@ http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports
 http://sm-monirul.xyz/private/live/1LIVE/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports HD
-https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
+http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/31131/index.m3u8
-#EXTINF:-1 tvg-name="Ten Sports HD" tvg-logo="https://api.cirkletv.com/files/TEN_Sports_Logo_1788630363019_7ee7e594c57ede39.webp" group-title="Sports",Ten Sports HD
-https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
-#EXTINF:-1 tvg-name="Pk Sports HD" tvg-logo="https://api.cirkletv.com/files/cirkletv_1788630662666_88434d6a93a8f95f.webp" group-title="Sports",Pk Sports HD
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8
-#EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/4NyDyTLY/Gemini-Generated-Image-ywt7duywt7duywt7.jpg" group-title="Sports",Sky Sports Cricket
+http://sm-monirul.xyz/private/live/Sky-Sports-Cricket/index.m3u8
+#EXTINF:-1 tvg-name="PTV HD" tvg-logo="https://i.postimg.cc/W3QSrL7T/20260213-084216.png" group-title="Sports",PTV HD
+http://sm-monirul.xyz/private/live/PTV/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702-032050.png" group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702-032238.png" group-title="Sports",Star Sports SL 1
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+http://sm-monirul.xyz/private/live/Star-sports-select-1/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002-225947.png" group-title="Sports",Star Sports SL 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
