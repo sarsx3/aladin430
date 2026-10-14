@@ -21,11 +21,11 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 tvg-name="Jamuna" tvg-logo="https://i.postimg.cc/L4D0hyrt/P-071035.png" group-title="Bangla",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="Bangla",Channel 24
-http://103.141.70.136:8080/bdtv/restrem/14.m3u8
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="Bangla",Ekattor HD
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+https://box.bbaria.net:8083/EkattorTV/video.m3u8
 #EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="Bangla",Independent
-http://103.141.70.136:8080/bdtv/restrem/23.m3u8
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="Bangla",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/CLvtrv7h/20250529-073029.png" group-title="Bangla",SA TV
@@ -59,11 +59,11 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704-201040.png" group-title="Bangla",G TV
 http://sm-monirul.xyz/private/live/GAZI-TV/index.m3u8
 #EXTINF:-1 tvg-name="Nagorik" tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720-201346.png" group-title="Bangla",Nagorik
-http://103.141.70.136:8080/bdtv/restrem/38.m3u8
+https://box.bbaria.net:8083/Nagorik_TV/index.m3u8
 #EXTINF:-1 tvg-name="Asian" tvg-logo="https://i.postimg.cc/PqvBwmmt/20250529-102106.png" group-title="Bangla",Asian
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/pVq6vZYV/20250729-030034.png" group-title="Bangla",Channel 9
-http://sm-monirul.xyz/private/live/CHANNEL-9/index.m3u8
+https://box.bbaria.net:8083/Channel9/index.m3u8
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127-095813.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla",ATN Bangla
@@ -102,7 +102,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 #EXTINF:-1 tvg-name="Green TV" tvg-logo="https://i.postimg.cc/CMcywKNw/20260913-091922.png" group-title="Bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="Matribhumi TV" tvg-logo="https://i.postimg.cc/g0xWsM0M/20260930-231840.png" group-title="Bangla",Matribhumi TV
+#EXTINF:-1 tvg-name="MatriBhumi TV" tvg-logo="https://i.postimg.cc/g0xWsM0M/20260930-231840.png" group-title="Bangla",MatriBhumi TV
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian Bangla",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
