@@ -286,9 +286,12 @@ def repair_json(text):
 def lenient_json_loads(text):
     try:
         return json.loads(text)
-    except json.JSONDecodeError:
-        log("  ⚠ JSON-এ ভুল আছে, নিজে ঠিক করে পড়া হচ্ছে")
-        return json.loads(repair_json(text))
+    except json.JSONDecodeError as e:
+        log(f"  ⚠ JSON-এ ভুল আছে ({e.msg}), নিজে ঠিক করে পড়া হচ্ছে")
+        # Invalid control character (\x00-\x08, \x0b, \x0c, \x0e-\x1f) সরানো হচ্ছে
+        # \x09=tab, \x0a=newline, \x0d=CR — এগুলো JSON-এ বৈধ তাই রাখা হচ্ছে
+        cleaned = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+        return json.loads(repair_json(cleaned))
 
 
 # ---------------------------------------------------------------- ফিল্ড বের করা
