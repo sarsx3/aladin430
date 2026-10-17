@@ -16,5 +16,12 @@
     "url": "https://raw.githubusercontent.com/television-app/television-data/main/playlist.json",
     "encrypted": true,
     "auto_group": true
+  },
+  {
+    "name": "SM IPTV",
+    "slug": "sm-iptv",
+    "type": "smiptv",
+    "config_url": "https://app-main-ap.sm-monirul.xyz/exp/",
+    "auto_group": false
   }
 ]
