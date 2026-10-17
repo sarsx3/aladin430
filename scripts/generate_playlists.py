@@ -10,17 +10,20 @@ sources.json এ থাকা প্রতিটি JSON লিংক থেক�
   * ক্যাটেগরি না থাকলে নাম দেখে নিজে গ্রুপ ঠিক করে (auto_group)
   * referer / user_agent থাকলে প্লেলিস্টে যোগ করে
   * "encrypted": true হলে Television-style AES-CBC ডিক্রিপ্ট করে (pycryptodome)
+  * GitHub Gist লিংক হলে CDN ক্যাশ এড়িয়ে সরাসরি Gist API থেকে সবসময় সর্বশেষ কনটেন্ট আনে
   * "type": "smiptv" হলে SM IPTV 3-step API flow হ্যান্ডেল করে
     (GET exp/ → POST token → GET channels with Bearer token)
     এবং DRM (Widevine/ClearKey) kid+key সহ KODIPROP লেখে
 """
 import base64
+import hashlib
 import json
 import os
 import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -91,15 +94,96 @@ def decrypt_television(raw_bytes: bytes) -> str:
 
 
 # ---------------------------------------------------------------- ডাউনলোড
+# ---------------------------------------------------------------- GitHub Gist (ক্যাশ-মুক্ত)
+# সমস্যা: gist.githubusercontent.com/.../raw/<ফাইল> লিংক GitHub-এর CDN-এ ক্যাশ হয়ে থাকে,
+# তাই Actions রান সফল হলেও অনেক সময় পুরনো কনটেন্ট আসে এবং প্লেলিস্ট আপডেট হয় না।
+# সমাধান: Gist API (ক্যাশ হয় না) থেকে সর্বশেষ কনটেন্ট আনা; ব্যর্থ হলে ক্যাশ-বাস্টিং সহ raw লিংক।
+_GIST_RAW_RE = re.compile(
+    r"^https?://gist\.githubusercontent\.com/([^/]+)/([0-9a-fA-F]+)/raw"
+    r"(?:/([0-9a-fA-F]{40}))?(?:/([^?#/]+))?/?(?:[?#].*)?$"
+)
+
+
+def _parse_gist_raw(url):
+    """Gist raw লিংক হলে (gist_id, filename) দেয়। নির্দিষ্ট revision পিন করা থাকলে None।"""
+    m = _GIST_RAW_RE.match(url.strip())
+    if not m:
+        return None
+    _user, gist_id, rev, fname = m.groups()
+    if rev and fname:  # /raw/<40-hex>/<file> -> ব্যবহারকারী ইচ্ছা করেই পুরনো revision পিন করেছেন
+        return None
+    if rev and not fname:  # /raw/<name> যেখানে নামটা দৈবক্রমে 40 hex
+        fname = rev
+    return gist_id, fname
+
+
+def _http_get(url, headers, timeout=30):
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read()
+
+
+def fetch_gist_via_api(gist_id, filename=None, timeout=30):
+    """Gist API থেকে ফাইলের সর্বশেষ কনটেন্ট (bytes) আনে। ফেরত: (bytes, updated_at)।"""
+    api = f"https://api.github.com/gists/{gist_id}"
+    base = {
+        "User-Agent": "M3U-Updater/1.0",
+        "Accept": "application/vnd.github+json",
+        "Cache-Control": "no-cache",
+    }
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    try:
+        hdr = dict(base)
+        if token:
+            hdr["Authorization"] = f"Bearer {token}"
+        raw = _http_get(api, hdr, timeout)
+    except urllib.error.HTTPError as e:
+        if token and e.code in (401, 403):  # টোকেনে সমস্যা হলে টোকেন ছাড়া চেষ্টা
+            raw = _http_get(api, base, timeout)
+        else:
+            raise
+    meta = json.loads(raw.decode("utf-8"))
+    files = meta.get("files") or {}
+    if not files:
+        raise RuntimeError("Gist-এ কোনো ফাইল নেই")
+    f = files.get(filename) if filename else None
+    if f is None:
+        # ফাইলের নাম বদলে গেলেও যেন কাজ চলে: একটাই ফাইল থাকলে সেটা, নইলে প্রথমটা
+        name0 = sorted(files)[0]
+        if filename:
+            log(f"  ⚠ Gist-এ '{filename}' নেই, '{name0}' ব্যবহার করা হচ্ছে")
+        f = files[name0]
+    content = f.get("content")
+    if f.get("truncated") or content is None:
+        content = _http_get(f["raw_url"], base, timeout).decode("utf-8", errors="replace")
+    return content.encode("utf-8"), meta.get("updated_at", "?")
+
+
 def fetch_text(url, user_agent=None, retries=3, timeout=30):
     """ইন্টারনেট থেকে ডাটা আনে। ফেল করলে ৩ বার চেষ্টা করে।"""
     headers = {"User-Agent": user_agent or "Mozilla/5.0 (compatible; M3U-Updater/1.0)"}
+    gist = _parse_gist_raw(url)
+    if gist:
+        gist_id, fname = gist
+        try:
+            data, updated = fetch_gist_via_api(gist_id, fname, timeout)
+            log(f"  📥 Gist API থেকে আনা হয়েছে (gist সর্বশেষ আপডেট: {updated}, {len(data)} বাইট, "
+                f"sha1: {hashlib.sha1(data).hexdigest()[:10]})")
+            return data
+        except Exception as e:  # noqa: BLE001
+            log(f"  ⚠ Gist API ব্যর্থ ({e}); ক্যাশ-বাস্টিং সহ raw লিংকে যাচ্ছি")
+        headers.update({"Cache-Control": "no-cache, no-store, max-age=0", "Pragma": "no-cache"})
     last_err = None
     for attempt in range(1, retries + 1):
         try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                raw = resp.read()
+            target = url
+            if gist:  # প্রতিবার আলাদা কোয়েরি -> CDN ক্যাশ হিট হবে না
+                sep = "&" if "?" in url else "?"
+                target = f"{url}{sep}_cb={int(time.time())}{attempt}"
+            raw = _http_get(target, headers, timeout)
+            if gist:
+                log(f"  📥 raw লিংক থেকে আনা হয়েছে ({len(raw)} বাইট, "
+                    f"sha1: {hashlib.sha1(raw).hexdigest()[:10]})")
             return raw  # bytes হিসেবে ফেরত দেওয়া হচ্ছে (encrypted সোর্সের জন্য)
         except Exception as e:  # noqa: BLE001
             last_err = e
