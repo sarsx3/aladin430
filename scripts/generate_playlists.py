@@ -283,14 +283,86 @@ def repair_json(text):
     return "".join(out)
 
 
-def lenient_json_loads(text):
+# "key": "value" জোড়া খোঁজার প্যাটার্ন। value-র শেষের " বাদ পড়ে গেলেও লাইনের শেষ পর্যন্ত ধরে নেয়।
+_KV_RE = re.compile(
+    r'"([^"\\\r\n]{1,40})"\s*:\s*'
+    r'(?:"((?:[^"\\\r\n]|\\.)*)("?)'
+    r'|(-?\d+(?:\.\d+)?)(?![\w.])'
+    r'|(true|false|null)(?!\w))'
+)
+
+
+def _extract_fields(chunk):
+    """ভাঙা একটা অংশ থেকে যতগুলো "key": "value" পাওয়া যায় তুলে আনে।"""
+    rec = {}
+    for m in _KV_RE.finditer(chunk):
+        key = m.group(1)
+        if m.group(2) is not None:
+            val = m.group(2)
+            if m.group(3) == "":  # শেষের " নেই -> শেষে লেগে থাকা , } ] ফেলে দাও
+                val = val.rstrip(" \t,}]")
+            try:
+                val = json.loads('"' + val + '"', strict=False)  # \/ \uXXXX ইত্যাদি ঠিক করা
+            except ValueError:
+                pass
+        elif m.group(4) is not None:
+            val = m.group(4)
+        else:
+            val = None
+        rec.setdefault(key, val)
+    return rec
+
+
+def salvage_channels(text, mapping):
+    """
+    পুরো JSON না পড়া গেলে শেষ ভরসা: প্রতিটা { থেকে আলাদা আলাদা অবজেক্ট পড়ার চেষ্টা করে।
+    ভালো অবজেক্ট যেমন আছে তেমন নেয়; ভাঙা অবজেক্ট থেকে field গুলো তুলে আনে।
+    লিংক (http...) নেই এমন কিছু নেয় না। ফেরত দেয়: (চ্যানেলের তালিকা, ভাঙা থেকে উদ্ধার হওয়া সংখ্যা)
+    """
+    dec = json.JSONDecoder(strict=False)
+    starts = [m.start() for m in re.finditer(r"\{", text)]
+    items, repaired, k, n = [], 0, 0, len(text)
+    while k < len(starts):
+        s = starts[k]
+        try:
+            obj, end = dec.raw_decode(text, s)
+        except json.JSONDecodeError:
+            obj, end = None, s
+        if obj is not None:
+            items.append(obj)
+            while k < len(starts) and starts[k] < end:  # এই অবজেক্টের ভেতরের { গুলো বাদ
+                k += 1
+            continue
+        nxt = starts[k + 1] if k + 1 < len(starts) else n
+        rec = _extract_fields(text[s:nxt])
+        if is_http(pick(rec, "url", mapping)):
+            items.append(rec)
+            repaired += 1
+        k += 1
+    return items, repaired
+
+
+def lenient_json_loads(text, mapping=None):
     # strict=False: string-এর ভেতরে raw tab / newline / অন্য control character থাকলেও পড়বে
     # (ডিফল্টে Python এগুলোকে "Invalid control character" বলে reject করে)
     try:
         return json.loads(text, strict=False)
-    except json.JSONDecodeError:
-        log("  ⚠ JSON-এ ভুল আছে, নিজে ঠিক করে পড়া হচ্ছে")
+    except json.JSONDecodeError as e:
+        err = e
+    log("  ⚠ JSON-এ ভুল আছে, নিজে ঠিক করে পড়া হচ্ছে")
+    try:
         return json.loads(repair_json(text), strict=False)
+    except json.JSONDecodeError:
+        pass
+    # ভুলের জায়গাটা লগে দেখাও, যাতে সোর্সের কোথায় সমস্যা বোঝা যায়
+    a, b = max(0, err.pos - 80), min(len(text), err.pos + 80)
+    log(f"  🔎 ভুল: {err.msg} (char {err.pos}) — আশেপাশের লেখা: {text[a:b]!r}")
+    items, repaired = salvage_channels(text, mapping or {})
+    if not items:
+        raise err
+    log(f"  🛟 পুরো JSON পড়া যায়নি; তবুও {len(items)}টা এন্ট্রি উদ্ধার হয়েছে "
+        f"({repaired}টা ভাঙা অবস্থা থেকে মেরামত করে)")
+    return items
 
 
 # ---------------------------------------------------------------- ফিল্ড বের করা
@@ -460,7 +532,7 @@ def process_source(src):
         content = text if text.endswith("\n") else text + "\n"
     else:
         try:
-            data = lenient_json_loads(text)
+            data = lenient_json_loads(text, mapping)
         except json.JSONDecodeError as e:
             raise RuntimeError(f"JSON পড়া যায়নি: {e}")
         entries, stats = [], {"no_url": 0}
