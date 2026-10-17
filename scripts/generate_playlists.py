@@ -10,6 +10,9 @@ sources.json এ থাকা প্রতিটি JSON লিংক থেক�
   * ক্যাটেগরি না থাকলে নাম দেখে নিজে গ্রুপ ঠিক করে (auto_group)
   * referer / user_agent থাকলে প্লেলিস্টে যোগ করে
   * "encrypted": true হলে Television-style AES-CBC ডিক্রিপ্ট করে (pycryptodome)
+  * "type": "smiptv" হলে SM IPTV 3-step API flow হ্যান্ডেল করে
+    (GET exp/ → POST token → GET channels with Bearer token)
+    এবং DRM (Widevine/ClearKey) kid+key সহ KODIPROP লেখে
 """
 import base64
 import json
@@ -103,6 +106,140 @@ def fetch_text(url, user_agent=None, retries=3, timeout=30):
             log(f"  চেষ্টা {attempt}/{retries} ব্যর্থ: {e}")
             time.sleep(3 * attempt)
     raise RuntimeError(f"ডাউনলোড ব্যর্থ: {last_err}")
+
+
+def fetch_json_api(url, method="GET", headers=None, timeout=30):
+    """JSON API endpoint থেকে ডাটা আনে।"""
+    req = urllib.request.Request(url, headers=headers or {}, method=method)
+    req.add_header("User-Agent", "Mozilla/5.0 (compatible; M3U-Updater/1.0)")
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+# ================================================================
+# SM IPTV — বিশেষ 3-step API flow
+# ================================================================
+def process_smiptv(src):
+    """
+    SM IPTV এর ৩ ধাপের API flow:
+      1) GET {config_url}  →  { "url": "https://worker-url/" }
+      2) POST {worker}/token  →  { "token": "..." }
+      3) GET  {worker}/channels  (Authorization: Bearer <token>)
+         →  { "categories": [ { "name": "...", "channels": [...] } ] }
+
+    প্রতিটি চ্যানেলে থাকতে পারে:
+      stream_url, logo, referer, user_agent, origin, cookie, kid, key
+    DRM চ্যানেলে kid+key থাকলে KODIPROP:clearkey লেখা হয়।
+    """
+    name       = src["name"]
+    slug       = src["slug"]
+    config_url = src["config_url"]
+    out_file   = OUT_DIR / f"{slug}.m3u"
+    log(f"▶ {name} (SM IPTV) -> {out_file.name}")
+
+    # Step 1 — Worker URL
+    log("  ➤ Step 1: config URL থেকে worker URL নেওয়া হচ্ছে...")
+    cfg = fetch_json_api(config_url)
+    worker_url = cfg.get("url", "").rstrip("/") + "/"
+    if not worker_url.startswith("https://"):
+        raise RuntimeError(f"Worker URL ভুল বা পাওয়া যায়নি: {cfg}")
+    log(f"  ✓ Worker: {worker_url}")
+
+    # Step 2 — Auth Token
+    log("  ➤ Step 2: auth token নেওয়া হচ্ছে...")
+    token_data = fetch_json_api(worker_url + "token", method="POST")
+    token = token_data.get("token")
+    if not token:
+        raise RuntimeError(f"Token পাওয়া যায়নি: {token_data}")
+    log("  ✓ Token পাওয়া গেছে")
+
+    # Step 3 — Channel list
+    log("  ➤ Step 3: চ্যানেল ডেটা লোড হচ্ছে...")
+    data = fetch_json_api(
+        worker_url + "channels",
+        headers={"Authorization": f"Bearer {token}"}
+    )
+    categories = data.get("categories", [])
+    if not categories:
+        raise RuntimeError("কোনো ক্যাটাগরি/চ্যানেল পাওয়া যায়নি")
+
+    # Build M3U
+    app_name = data.get("app_name", name)
+    tg       = data.get("telegram_channel", "")
+    lines = [
+        "#EXTM3U",
+        f"#PLAYLIST:{app_name}",
+        f"# Source: SM IPTV  |  {tg}",
+        f"# Auto-generated — do not edit manually",
+        "",
+    ]
+    seen  = set()
+    total = 0
+    drm_count = 0
+
+    for cat in categories:
+        cat_name = clean(cat.get("name") or "General")
+        for ch in cat.get("channels") or []:
+            stream_url = (ch.get("stream_url") or ch.get("streamUrl") or "").strip()
+            ch_name    = clean(ch.get("name") or "Unknown")
+            if not stream_url or not is_http(stream_url):
+                continue
+            key_pair = (ch_name.lower(), stream_url)
+            if key_pair in seen:
+                continue
+            seen.add(key_pair)
+
+            ch_id  = ch.get("id") or ""
+            logo   = (ch.get("logo") or "").replace('"', "%22").replace(" ", "%20")
+            ua     = ch.get("user_agent") or ch.get("userAgent") or ""
+            ref    = ch.get("referer") or ""
+            origin = ch.get("origin") or ""
+            cookie = ch.get("cookie") or ""
+            kid    = ch.get("kid") or ""
+            ck_key = ch.get("key") or ""
+
+            # #EXTINF
+            attrs = []
+            if ch_id and not str(ch_id).isdigit():
+                attrs.append(f'tvg-id="{clean(str(ch_id))}"')
+            attrs.append(f'tvg-name="{ch_name}"')
+            if logo:
+                attrs.append(f'tvg-logo="{logo}"')
+            attrs.append(f'group-title="{cat_name}"')
+
+            lines.append(f'#EXTINF:-1 {" ".join(attrs)},{ch_name}')
+
+            # HTTP headers (VLC/Kodi style)
+            if ua:
+                lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
+            if ref:
+                lines.append(f"#EXTVLCOPT:http-referrer={ref}")
+            if origin:
+                lines.append(f"#EXTVLCOPT:http-origin={origin}")
+            if cookie:
+                lines.append(f"#EXTVLCOPT:http-cookie={cookie}")
+
+            # DRM ClearKey
+            if kid and ck_key:
+                lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+                lines.append(f"#KODIPROP:inputstream.adaptive.license_key={kid}:{ck_key}")
+                drm_count += 1
+
+            lines.append(stream_url)
+            lines.append("")
+            total += 1
+
+    if total == 0:
+        raise RuntimeError("০টা চ্যানেল পাওয়া গেছে, পুরনো ফাইল অক্ষত রাখা হলো")
+
+    content = "\n".join(lines) + "\n"
+
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    if out_file.exists() and out_file.read_text(encoding="utf-8") == content:
+        log(f"  কোনো পরিবর্তন নেই ({total} চ্যানেল, {drm_count} DRM)")
+    else:
+        out_file.write_text(content, encoding="utf-8")
+        log(f"  ✅ আপডেট হয়েছে ({total} চ্যানেল, {drm_count} DRM)")
 
 
 # ---------------------------------------------------------------- ভাঙা JSON মেরামত
@@ -301,7 +438,7 @@ def build_m3u(entries, mapping, src):
     return "\n".join(lines) + "\n"
 
 
-# ---------------------------------------------------------------- প্রধান কাজ
+# ---------------------------------------------------------------- প্রধান কাজ (সাধারণ সোর্স)
 def process_source(src):
     name, slug, url = src["name"], src["slug"], src["url"]
     mapping = src.get("mapping", {}) or {}
@@ -352,7 +489,11 @@ def main():
             log(f"⏭ {src.get('name')} বন্ধ করা আছে, বাদ দেওয়া হলো")
             continue
         try:
-            process_source(src)
+            # SM IPTV এর জন্য আলাদা handler
+            if src.get("type") == "smiptv":
+                process_smiptv(src)
+            else:
+                process_source(src)
         except Exception as e:  # noqa: BLE001
             log(f"  ❌ ব্যর্থ: {e}")
             print(f"::error title={src.get('name')}::{e}")
