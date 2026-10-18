@@ -360,6 +360,9 @@ http://bosstv.click:8080/live/18012689/77561563/97485.ts
 #EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/dQrvvFfc/star-bharat.png" group-title="Hindi",Star Bharat
 https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
 
+#EXTINF:-1 tvg-name="Travel XP" tvg-logo="https://i.postimg.cc/28ShX0KZ/travel-xp.png" group-title="Hindi",Travel XP
+https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=travel_xp&e=.m3u8
+
 #EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi",Colors Cineplex HD
 http://bosstv.click:8080/live/18012689/77561563/85219.ts
 
@@ -492,7 +495,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/discovery-bangla/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-http://103.141.70.136:8080/bdtv/restrem/53.m3u8
+https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=nick&e=.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6848/index.m3u8
@@ -585,16 +588,4 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 
 #EXTINF:-1 tvg-name="Iqraa TV" tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" group-title="Islamic",Iqraa TV
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Radio Bangla Net" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="FM Radio",Radio Bangla Net
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-
-#EXTINF:-1 tvg-name="BBC Bangla" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="FM Radio",BBC Bangla
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-
-#EXTINF:-1 tvg-name="Spice FM" tvg-logo="https://spicefmbd.com/logospice.png" group-title="FM Radio",Spice FM
-https://stream.spicefmbd.com/stream.m3u8
-
-#EXTINF:-1 tvg-name="Radio Mirchi" tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="FM Radio",Radio Mirchi
-https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
 
