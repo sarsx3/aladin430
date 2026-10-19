@@ -349,19 +349,19 @@ https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=and_xplore&e=.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Hindi",Star Gold HD
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_hd&e=.m3u8
+http://sm-monirul.xyz/my_server/live/star-gold/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold 2" tvg-logo="https://i.postimg.cc/6q3Qjm9p/star-gold-2.png" group-title="Hindi",Star Gold 2
 http://103.151.60.162:2122/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold Select" tvg-logo="https://i.postimg.cc/8kMDDGYQ/star-gold-select.png" group-title="Hindi",Star Gold Select
-http://bosstv.click:8080/live/18012689/77561563/97485.ts
+https://app-zibo-play40.tvhunter.top/newr/STAR.GOLD.SEL.HD.m3u8
 
 #EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/dQrvvFfc/star-bharat.png" group-title="Hindi",Star Bharat
 https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
 
-#EXTINF:-1 tvg-name="Travel XP" tvg-logo="https://i.postimg.cc/28ShX0KZ/travel-xp.png" group-title="Hindi",Travel XP
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=travel_xp&e=.m3u8
+#EXTINF:-1 tvg-name="Travel XP Bangla" tvg-logo="https://i.postimg.cc/28ShX0KZ/travel-xp.png" group-title="Hindi",Travel XP Bangla
+https://app-zibo-play40.tvhunter.top/newr/TRAVELXP.HD.m3u8
 
 #EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi",Colors Cineplex HD
 http://bosstv.click:8080/live/18012689/77561563/85219.ts
@@ -370,7 +370,7 @@ http://bosstv.click:8080/live/18012689/77561563/85219.ts
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202-090307.png" group-title="Hindi",Star Plus HD
-http://103.114.11.37:8081/Star-Plus-HD/index.m3u8
+http://38.96.178.205/STARPLUS/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="Hindi",Hum TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
@@ -495,7 +495,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/discovery-bangla/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=nick&e=.m3u8
+httpS://app-zibo-play40.tvhunter.top/newr/NICK.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6848/index.m3u8
