@@ -113,7 +113,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="Indian Bangla",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602-220804.png" group-title="Indian Bangla",Colors Bangla HD
-http://sm-monirul.xyz/private/live/Colors-Bangla/index.m3u8
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian Bangla",Sony Aath
@@ -124,7 +124,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="Indian Bangla",Jalsha Movies SD
 https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="Indian Bangla",Jalsha Movies HD
-http://sm-monirul.xyz/private/live/JALSHA-MOVIES/index.m3u8
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Indian Bangla",Zee Bangla Cinema
 http://sm-monirul.xyz/private/live/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Indian Bangla",Colors Bangla Cinema
