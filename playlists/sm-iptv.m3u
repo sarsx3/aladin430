@@ -346,7 +346,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
 #EXTINF:-1 tvg-name="Xplor" tvg-logo="https://i.postimg.cc/jSC6CM6N/and-xplore.png" group-title="Hindi",Xplor
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
 #EXTVLCOPT:http-referrer=https://sm-monirul.xyz
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=and_xplore&e=.m3u8
+https://mac.nocablenetwork.workers.dev/stream/4082.ts
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Hindi",Star Gold HD
 http://sm-monirul.xyz/my_server/live/star-gold/index.m3u8
@@ -379,7 +379,7 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="& Tv" tvg-logo="https://i.postimg.cc/bJzsJNt9/20250529-133255.png" group-title="Hindi",& Tv
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Lotus Tv" tvg-logo="https://i.postimg.cc/ydhc2tKr/lotus-tv.png" group-title="Hindi",Lotus Tv
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=lotus_tv&e=.m3u8
