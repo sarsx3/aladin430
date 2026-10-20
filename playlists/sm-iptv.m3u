@@ -212,6 +212,9 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
 https://app-re.sm-monirul-islam-rs.workers.dev/PTV-SPORTS-HD/index.m3u8
 
+#EXTINF:-1 tvg-name="Unite Sports 2" tvg-logo="https://i.postimg.cc/cJgxdQT1/sm-unite8-sports1.webp" group-title="Sports",Unite Sports 2
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=10097&deviceMac=00:1A:79:A4:73:F2
+
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009276
@@ -327,7 +330,7 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 https://techandeat.online/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-name="And Pictures hd" tvg-logo="https://i.postimg.cc/P5NbNSb8/and-picturs-hd.png" group-title="Hindi",And Pictures hd
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=and_picturs_hd&e=.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=10097&deviceMac=00:1A:79:A4:73:F2
 
 #EXTINF:-1 tvg-name="Star Movie" tvg-logo="https://i.postimg.cc/v8z5zJ3g/star-movies.png" group-title="Hindi",Star Movie
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
@@ -346,7 +349,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
 #EXTINF:-1 tvg-name="Xplor" tvg-logo="https://i.postimg.cc/jSC6CM6N/and-xplore.png" group-title="Hindi",Xplor
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
 #EXTVLCOPT:http-referrer=https://sm-monirul.xyz
-https://mac.nocablenetwork.workers.dev/stream/4082.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=10097&deviceMac=00:1A:79:A4:73:F2
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Hindi",Star Gold HD
 https://app-re.sm-monirul-islam-rs.workers.dev/star_gold/index.m3u8
