@@ -349,7 +349,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
 https://mac.nocablenetwork.workers.dev/stream/4082.ts
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Hindi",Star Gold HD
-http://sm-monirul.xyz/my_server/live/star-gold/index.m3u8
+https://app-re.sm-monirul-islam-rs.workers.dev/star_gold/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold 2" tvg-logo="https://i.postimg.cc/6q3Qjm9p/star-gold-2.png" group-title="Hindi",Star Gold 2
 http://103.151.60.162:2122/play/a01v/index.m3u8
@@ -407,6 +407,9 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009246
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009249
 
+#EXTINF:-1 tvg-name="Sony Max 1" tvg-logo="https://i.postimg.cc/k4Dv0q86/1000120489.jpg" group-title="Hindi",Sony Max 1
+https://bdtop1.tvhunter.top/max1/index.m3u8
+
 #EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529-132238.png" group-title="Hindi",Sony Max 2
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000044878
@@ -433,6 +436,9 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009259
 #EXTINF:-1 tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/yYTkD4Z5/20251222-213710.png" group-title="Hindi",Sony Pix
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009258
+
+#EXTINF:-1 tvg-name="Sony One Hite" tvg-logo="https://i.postimg.cc/sg8zHMzq/sony_one.webp" group-title="Hindi",Sony One Hite
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Hindi",Sony BBC Earth HD
 https://toffee.sm-monirul-islam-rs.workers.dev/sony_bbc_earth_hd/index.m3u8
@@ -462,8 +468,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-name="ary tv" tvg-logo="https://i.postimg.cc/XJx2RBXx/sm-ary-tv.png" group-title="Hindi",ary tv
-#EXTVLCOPT:http-referrer=https://live.arydigital.tv
-https://arydigital.aryzap.com/55ae4e128198dcc665950b98a478e32d/6ad356ed/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
+http://live1.entertv.com.bd:8080/dsds/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Documentory",Animal Planet
 https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet/index.m3u8
