@@ -314,7 +314,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009255
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/ZnnTZCFq/1000114955.png" group-title="Indian Bangla",Sun Bangla
-http://bosstv.click:8080/live/18012689/77561563/131985.ts
+https://app-re.sm-monirul-islam-rs.workers.dev/sun/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="https://i.postimg.cc/t47yzhKV/sm-zee-babgla-sonar.webp" group-title="Indian Bangla",Zee Bangla Sonar
 https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
