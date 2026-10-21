@@ -57,7 +57,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-name="52 Channel" tvg-logo="https://i.postimg.cc/nhybNw1j/20260913-093359.png" group-title="Bangla",52 Channel
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704-201040.png" group-title="Bangla",G TV
-http://sm-monirul.xyz/private/live/GAZI-TV/index.m3u8
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-name="Nagorik" tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720-201346.png" group-title="Bangla",Nagorik
 https://box.bbaria.net:8083/Nagorik_TV/index.m3u8
 #EXTINF:-1 tvg-name="Asian" tvg-logo="https://i.postimg.cc/PqvBwmmt/20250529-102106.png" group-title="Bangla",Asian
@@ -126,9 +126,9 @@ https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="Indian Bangla",Jalsha Movies HD
 http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Indian Bangla",Zee Bangla Cinema
-http://sm-monirul.xyz/private/live/ZEE-BANGLA-CINEMA/index.m3u8
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Indian Bangla",Colors Bangla Cinema
-http://sm-monirul.xyz/private/live/COLORS-BANGLA-CINEMA/index.m3u8
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/xTSTTdVJ/20250529-111933.png" group-title="Indian Bangla",Sananda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-name="Bangla +" tvg-logo="https://i.postimg.cc/P5XXYFxd/20250529-111735.png" group-title="Indian Bangla",Bangla +
@@ -218,23 +218,19 @@ https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/qR885pSD/20251002-231959.png" group-title="Documentory",Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002-232031.png" group-title="Documentory",Discovery HD
-http://sm-monirul.xyz/private/live/DISCOVERY-HD/index.m3u8
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-name="National Geo HD" tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031-210443.png" group-title="Documentory",National Geo HD
-http://sm-monirul.xyz/private/live/National-geo-graphy-bangla/index.m3u8
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentory",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports
-http://sm-monirul.xyz/private/live/1LIVE/index.m3u8
+https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports HD
 http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/4NyDyTLY/Gemini-Generated-Image-ywt7duywt7duywt7.jpg" group-title="Sports",Sky Sports Cricket
-http://sm-monirul.xyz/private/live/Sky-Sports-Cricket/index.m3u8
-#EXTINF:-1 tvg-name="PTV HD" tvg-logo="https://i.postimg.cc/W3QSrL7T/20260213-084216.png" group-title="Sports",PTV HD
-http://sm-monirul.xyz/private/live/PTV/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
@@ -244,7 +240,7 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702-032050.png" group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702-032238.png" group-title="Sports",Star Sports SL 1
-http://sm-monirul.xyz/private/live/Star-sports-select-1/index.m3u8
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002-225947.png" group-title="Sports",Star Sports SL 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
