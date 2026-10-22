@@ -215,8 +215,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-name="PTV" tvg-logo="https://i.postimg.cc/zB0GG09t/ptv-sports.png" group-title="Sports",PTV
-#EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-https://app-re.sm-monirul-islam-rs.workers.dev/PTV-SPORTS-HD/index.m3u8
+https://live.incableinternet.com/ptv-sports/master.m3u8
 
 #EXTINF:-1 tvg-name="Unite Sports 2" tvg-logo="https://i.postimg.cc/cJgxdQT1/sm-unite8-sports1.webp" group-title="Sports",Unite Sports 2
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=10097&deviceMac=00:1A:79:A4:73:F2
@@ -248,11 +247,11 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DzJv7q53/sm-star-sports-select-1.webp" group-title="Sports",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-https://app-re.sm-monirul-islam-rs.workers.dev/STAR-SPORTS-SELECT-1-HD/index.m3u8
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/9Xpyp6Jd/star-sports-select-2.png" group-title="Sports",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-https://app-re.sm-monirul-islam-rs.workers.dev/STAR-SPORTS-SELECT-2-HD/index.m3u8
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://i.postimg.cc/CMjKZsg6/sm-a-sports-hd.jpg" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
@@ -488,9 +487,6 @@ https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery HD
 https://toffee.sm-monirul-islam-rs.workers.dev/discovery_hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Documentory",Discovery
-https://toffee.sm-monirul-islam-rs.workers.dev/discovery/index.m3u8
-
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Documentory",Discovery Science
 https://toffee.sm-monirul-islam-rs.workers.dev/discovery_science/index.m3u8
 
@@ -499,6 +495,9 @@ https://toffee.sm-monirul-islam-rs.workers.dev/discovery_turbo/index.m3u8
 
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Documentory",Investigation Discovery HD
 https://toffee.sm-monirul-islam-rs.workers.dev/investigation_discovery_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geo Graphic Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Documentory",National Geo Graphic Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=90229&uid=10097&deviceMac=00:1A:79:A4:73:F2
 
 #EXTINF:-1 tvg-name="Discovery Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery Bangla
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
