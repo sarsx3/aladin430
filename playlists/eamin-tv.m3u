@@ -137,8 +137,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529-133459.png" group-title="Indian Hindi",& Picture HD
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="Indian Hindi",Hum TV
-https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/1z18kKRT/20250529-133622.png" group-title="Indian Hindi",Zee Tv
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://i.postimg.cc/x81JsTj1/20250529-134250.png" group-title="Indian Hindi",Zee Bollywood
@@ -147,21 +145,34 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529-131726.png" group-title="Indian Hindi",Sony Television HD
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Sony Sab HD" tvg-logo="https://i.postimg.cc/442mfGNp/20250529-132607.png" group-title="Indian Hindi",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009246
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529-131834.png" group-title="Indian Hindi",Sony Max
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009249
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529-131834.png" group-title="Indian Hindi",Sony Max HD
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009247
 #EXTINF:-1 tvg-name="Sony Max 1" tvg-logo="https://i.postimg.cc/251DGH5w/20260930-231736.png" group-title="Indian Hindi",Sony Max 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529-132238.png" group-title="Indian Hindi",Sony Max 2
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000044878
+#EXTINF:-1 tvg-name="Sony Sab HD" tvg-logo="https://i.postimg.cc/442mfGNp/20250529-132607.png" group-title="Indian Hindi",Sony Sab HD
+#EXTVLCOPT:http-referrer=https://techandeat.online
+https://techandeat.online/sliv/stream.m3u8?id=1000009248
+#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://i.postimg.cc/rsHmQ1Yf/20250529-132755.png" group-title="Indian Hindi",Sony Pal
+#EXTVLCOPT:http-referrer=https://techandeat.online
+https://techandeat.online/sliv/stream.m3u8?id=1000009273
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://i.postimg.cc/vH1DDKck/20250529-132424.png" group-title="Indian Hindi",Sony Wah
+#EXTVLCOPT:http-referrer=https://techandeat.online
+https://techandeat.online/sliv/stream.m3u8?id=1000009253
+#EXTINF:-1 tvg-name="Sony Kal" tvg-logo="https://i.postimg.cc/L5TmcvqR/hridoytvgate-(14).webp" group-title="Indian Hindi",Sony Kal
+https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="https://i.postimg.cc/mZ6Xz0ds/Hridoy-TV-pro-(19).webp" group-title="Indian Hindi",Sony Marathi
+#EXTVLCOPT:http-referrer=https://techandeat.online
+https://techandeat.online/sliv/stream.m3u8?id=1000009259
+#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="Indian Hindi",Hum TV
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630-050504.png" group-title="Indian Hindi",B4U Movies
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 #EXTINF:-1 tvg-name="Gold Mines" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest/scale-to-width-down/360?cb=20240404141630" group-title="Indian Hindi",Gold Mines

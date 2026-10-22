@@ -335,7 +335,7 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 https://techandeat.online/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-name="And Pictures hd" tvg-logo="https://i.postimg.cc/P5NbNSb8/and-picturs-hd.png" group-title="Hindi",And Pictures hd
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=10097&deviceMac=00:1A:79:A4:73:F2
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=10097&deviceMac=00:1A:79:A4:73:F2
 
 #EXTINF:-1 tvg-name="Star Movie" tvg-logo="https://i.postimg.cc/v8z5zJ3g/star-movies.png" group-title="Hindi",Star Movie
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
@@ -508,7 +508,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/discovery-bangla/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-httpS://app-zibo-play40.tvhunter.top/newr/NICK.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=90242&uid=10097&deviceMac=00:1A:79:A4:73:F2
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6848/index.m3u8
