@@ -93,13 +93,16 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-name="Channel Europe" tvg-logo="https://i.postimg.cc/yYLs9fbz/channel_europe.webp" group-title="Bangla",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 
-#EXTINF:-1 tvg-name="Deshi TV" tvg-logo="https://i.postimg.cc/wMVHwFxV/sm-desh_tv.webp" group-title="Bangla",Deshi TV
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/wMVHwFxV/sm-desh_tv.webp" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-name="Probashi" tvg-logo="https://i.postimg.cc/X7jnrMxw/sm-probashi_tv.webp" group-title="Bangla",Probashi
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
 #EXTINF:-1 tvg-name="Deshe Bideshe" tvg-logo="https://i.postimg.cc/pXWPmNk4/sm-deshebideshe_tv.webp" group-title="Bangla",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-name="Deshi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_FDXeFwPffPlaIe8TrikSEykto3Z0QwnGa_pXsdhZxnNBWliZTcXHLM&s=10" group-title="Bangla",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://i.postimg.cc/SNSmn0VG/sm-enter_tv.webp" group-title="Bangla",Enter TV
