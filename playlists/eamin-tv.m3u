@@ -118,7 +118,7 @@ http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian Bangla",Sony Aath
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009255
 #EXTINF:-1 tvg-name="Akash 8" tvg-logo="https://i.postimg.cc/PJ5V7VsN/20250711-062758.png" group-title="Indian Bangla",Akash 8
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="Indian Bangla",Jalsha Movies SD
@@ -133,6 +133,10 @@ http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-name="Bangla +" tvg-logo="https://i.postimg.cc/P5XXYFxd/20250529-111735.png" group-title="Indian Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-name="Colors" tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202-090150.png" group-title="Indian Hindi",Colors
+http://103.135.253.32:8080/Color-HD/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Indian Hindi",Colors Cineplex
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-name="& Tv" tvg-logo="https://i.postimg.cc/bJzsJNt9/20250529-133255.png" group-title="Indian Hindi",& Tv
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529-133459.png" group-title="Indian Hindi",& Picture HD
@@ -240,13 +244,13 @@ http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009276
 #EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529-122855.png" group-title="Sports",Sony Ten 2
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009277
 #EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529-123011.png" group-title="Sports",Sony Ten 3
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529-123147.png" group-title="Sports",Sony Ten 5
 #EXTVLCOPT:http-referrer=https://techandeat.online
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009275
