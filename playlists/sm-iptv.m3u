@@ -378,7 +378,7 @@ http://bosstv.click:8080/live/18012689/77561563/85219.ts
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202-090307.png" group-title="Hindi",Star Plus HD
-http://38.96.178.205/STARPLUS/tracks-v1a1/index.m3u8
+http://103.151.60.162:2122/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="Hindi",Hum TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
