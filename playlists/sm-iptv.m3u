@@ -349,7 +349,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/STAR-MOVIES-SELECT-HD/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Hindi",HBO
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
 #EXTVLCOPT:http-referrer=https://sm-monirul.xyz
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sun_bangla_hd&sm=.m3u8
+https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
 
 #EXTINF:-1 tvg-name="Xplor" tvg-logo="https://i.postimg.cc/jSC6CM6N/and-xplore.png" group-title="Hindi",Xplor
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
