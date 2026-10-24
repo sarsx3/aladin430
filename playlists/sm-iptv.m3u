@@ -384,7 +384,8 @@ https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
 https://toffee.sm-monirul-islam-rs.workers.dev/tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Lotus Tv" tvg-logo="https://i.postimg.cc/ydhc2tKr/lotus-tv.png" group-title="Hindi",Lotus Tv
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=lotus_tv&e=.m3u8
+#EXTVLCOPT:http-referrer=https://torongoplus.vercel.app
+https://restreming.torongoplus-pro.workers.dev/ch58.m3u8?token=@torongoplus
 
 #EXTINF:-1 tvg-name="& Picture" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529-133459.png" group-title="Hindi",& Picture
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
