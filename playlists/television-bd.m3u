@@ -135,9 +135,9 @@ http://103.141.70.136:8080/bdtv/restrem/20.m3u8
 #EXTINF:-1 tvg-id="ch_66" tvg-name="Islam Channel Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp" group-title="Entertainment",Islam Channel Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
 #EXTINF:-1 tvg-id="ch_67" tvg-name="Zee Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla.webp" group-title="Entertainment",Zee Bangla
-http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/ZeeBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch_68" tvg-name="Star Jalsha" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-jalsha.webp" group-title="Entertainment",Star Jalsha
-http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ch_69" tvg-name="Sananda TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sananda-tv.webp" group-title="Entertainment",Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-id="ch_70" tvg-name="Colors Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla.webp" group-title="Entertainment",Colors Bangla
