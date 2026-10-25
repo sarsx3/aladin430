@@ -239,6 +239,9 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009275
 #EXTINF:-1 tvg-name="Sony Ten Cricket" tvg-logo="https://i.postimg.cc/SK2SmWVF/sm-ten-cricket.jpg" group-title="Sports",Sony Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.postimg.cc/Bv4jbHrr/1000116232.jpg" group-title="Sports",Ten Sports
+https://live.incableinternet.com/ten-sports/master.m3u8
+
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/bJmLR4JT/star-sports-1.png" group-title="Sports",Star Sports 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
@@ -291,7 +294,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/63VnFgKj/jalsha-movies.png" group-title="Indian Bangla",Jalsha Movies HD
-http://103.151.60.162:2122/play/a00x/index.m3u8
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/0546XD4p/jalsha-movies.png" group-title="Indian Bangla",Jalsha Movies SD
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
@@ -470,6 +473,9 @@ https://app-zibo-play40.tvhunter.top/newr/DISCOVERY.HD.m3u8
 #EXTINF:-1 tvg-name="National Geo Graphic Bangla" tvg-logo="https://i.postimg.cc/2y2RQ6TV/sm-national_geographic.webp" group-title="Documentory",National Geo Graphic Bangla
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
+#EXTINF:-1 tvg-name="National geo wild" tvg-logo="https://i.postimg.cc/VvYnwgLs/nat-geo-wild.png" group-title="Documentory",National geo wild
+https://app-zibo-play40.tvhunter.top/newr/NATGEO.WILD.HD.m3u8
+
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Documentory",Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
@@ -492,7 +498,7 @@ https://toffee.sm-monirul-islam-rs.workers.dev/investigation_discovery_hd/index.
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-httpS://app-zibo-play40.tvhunter.top/newr/NICK.m3u8
+http://103.135.253.32:8080/NICK/index.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6848/index.m3u8
