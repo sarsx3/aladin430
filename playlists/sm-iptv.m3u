@@ -64,7 +64,7 @@ http://103.135.253.32:8080/Star-News/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/brT8mLYx/sm-channel_9.webp" group-title="Bangla",Channel 9 HD
-https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
+https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://i.postimg.cc/Wznj5Sp0/sm-srk_tv.jpg" group-title="Bangla",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -184,11 +184,11 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 https://toffee.sm-monirul-islam-rs.workers.dev/bangla_tv/index.m3u8
 
 #EXTINF:-1 tvg-name="Ten Tv Prime" tvg-logo="https://i.postimg.cc/ZKbJWkjs/sm-ten-tv-prime.webp" group-title="Bangla",Ten Tv Prime
-#EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-https://sm-monirul.top/bd/live/Prime-TV/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.jagobd.com
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/0jfxVZ5j/sm-boishakhi_tv.jpg" group-title="Bangla",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/KcrZcc72/sm-nexus_tv.webp" group-title="Bangla",Nexus TV
 https://toffee.sm-monirul-islam-rs.workers.dev/nexus_tv/index.m3u8
@@ -281,15 +281,6 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/63dcbec8a9ed027c46e448fb003a0a64.jpg" group-title="Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 1 HD" tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="Sports",beIN SPORTS 1 HD
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 3 HD" tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="Sports",beIN SPORTS 3 HD
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 4 HD" tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="Sports",beIN SPORTS 4 HD
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6125/index.m3u8
-
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/G2qDmfqc/zee-bangla.png" group-title="Indian Bangla",Zee Bangla
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
 
@@ -319,7 +310,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://app-zibo-play40.tvhunter.top/newr/SUN.BANGLA.HD.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="https://i.postimg.cc/t47yzhKV/sm-zee-babgla-sonar.webp" group-title="Indian Bangla",Zee Bangla Sonar
-https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/Dfxx1y4q/1000115026.png" group-title="Indian Bangla",Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
@@ -391,7 +382,7 @@ https://restreming.torongoplus-pro.workers.dev/ch58.m3u8?token=@torongoplus
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="Hindi",Zee Cinema
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6642/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="Hindi",Zee Cinema HD
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
@@ -473,14 +464,20 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-name="ary tv" tvg-logo="https://i.postimg.cc/XJx2RBXx/sm-ary-tv.png" group-title="Hindi",ary tv
 http://live1.entertv.com.bd:8080/dsds/index.m3u8
 
+#EXTINF:-1 tvg-name="Discovery Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery Bangla
+https://app-zibo-play40.tvhunter.top/newr/DISCOVERY.HD.m3u8
+
+#EXTINF:-1 tvg-name="National Geo Graphic Bangla" tvg-logo="https://i.postimg.cc/2y2RQ6TV/sm-national_geographic.webp" group-title="Documentory",National Geo Graphic Bangla
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Documentory",Animal Planet
-https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Documentory",Animal Planet HD
 https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery HD
-https://toffee.sm-monirul-islam-rs.workers.dev/discovery_hd/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Documentory",Discovery Science
 https://toffee.sm-monirul-islam-rs.workers.dev/discovery_science/index.m3u8
@@ -490,12 +487,6 @@ https://toffee.sm-monirul-islam-rs.workers.dev/discovery_turbo/index.m3u8
 
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Documentory",Investigation Discovery HD
 https://toffee.sm-monirul-islam-rs.workers.dev/investigation_discovery_hd/index.m3u8
-
-#EXTINF:-1 tvg-name="National Geo Graphic Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Documentory",National Geo Graphic Bangla
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery Bangla
-https://app-zibo-play40.tvhunter.top/newr/DISCOVERY.HD.m3u8
 
 #EXTINF:-1 tvg-name="Durunto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127-095726.png" group-title="Kids",Durunto
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
