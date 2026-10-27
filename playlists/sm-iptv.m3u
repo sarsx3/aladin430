@@ -212,7 +212,7 @@ https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/26pLYgzB/1000115823.jpg" group-title="Sports",T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="PTV" tvg-logo="https://i.postimg.cc/zB0GG09t/ptv-sports.png" group-title="Sports",PTV
 https://live.incableinternet.com/ptv-sports/master.m3u8
@@ -323,7 +323,9 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 https://techandeat.online/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-name="And Pictures hd" tvg-logo="https://i.postimg.cc/P5NbNSb8/and-picturs-hd.png" group-title="Hindi",And Pictures hd
-https://mac.nocablenetwork.workers.dev/stream/98856.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #EXTINF:-1 tvg-name="Star Movie" tvg-logo="https://i.postimg.cc/v8z5zJ3g/star-movies.png" group-title="Hindi",Star Movie
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
