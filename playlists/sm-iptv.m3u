@@ -184,8 +184,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 https://toffee.sm-monirul-islam-rs.workers.dev/bangla_tv/index.m3u8
 
 #EXTINF:-1 tvg-name="Ten Tv Prime" tvg-logo="https://i.postimg.cc/ZKbJWkjs/sm-ten-tv-prime.webp" group-title="Bangla",Ten Tv Prime
-#EXTVLCOPT:http-referrer=https://www.jagobd.com
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/playlist.m3u8
+https://sm-monirul.top/bds/live/Prime-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/0jfxVZ5j/sm-boishakhi_tv.jpg" group-title="Bangla",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
@@ -337,9 +336,7 @@ https://app-re.sm-monirul-islam-rs.workers.dev/STAR-MOVIES-HD/index.m3u8
 https://app-re.sm-monirul-islam-rs.workers.dev/STAR-MOVIES-SELECT-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Hindi",HBO
-#EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-#EXTVLCOPT:http-referrer=https://sm-monirul.xyz
-https://app-re.sm-monirul-islam-rs.workers.dev/HBO/index.m3u8
+https://sm-monirul.top/bds/live/HBO/index.m3u8
 
 #EXTINF:-1 tvg-name="Xplor" tvg-logo="https://i.postimg.cc/jSC6CM6N/and-xplore.png" group-title="Hindi",Xplor
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
@@ -380,8 +377,7 @@ https://mac.nocablenetwork.workers.dev/stream/34156.ts
 https://toffee.sm-monirul-islam-rs.workers.dev/tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Lotus Tv" tvg-logo="https://i.postimg.cc/ydhc2tKr/lotus-tv.png" group-title="Hindi",Lotus Tv
-#EXTVLCOPT:http-referrer=https://torongoplus.vercel.app
-https://restreming.torongoplus-pro.workers.dev/ch58.m3u8?token=@torongoplus
+https://sm-monirul.top/bds/live/LOTUS-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="& Picture" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529-133459.png" group-title="Hindi",& Picture
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
@@ -390,7 +386,7 @@ https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="Hindi",Zee Cinema HD
-https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
+https://akash-go.sm-iptv-monirul-islam.workers.dev/z_cinama_hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/1z18kKRT/20250529-133622.png" group-title="Hindi",Zee Tv
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
