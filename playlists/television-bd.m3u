@@ -135,7 +135,7 @@ https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bang
 #EXTINF:-1 tvg-id="ch_66" tvg-name="Zee Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla.webp" group-title="Entertainment",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd|clearkey_key_id=1df83e058b864da896c9288eef63b113&clearkey_key=fc32f26239054b56aab48225305598fe
 #EXTINF:-1 tvg-id="ch_67" tvg-name="Zee Bangla 4k" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-4k.webp" group-title="Entertainment",Zee Bangla 4k
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98881.ts
+http://fastshare1.com:8080/live/4dfoydR2gZ/clever3still/98881.ts
 #EXTINF:-1 tvg-id="ch_68" tvg-name="Star Jalsha" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-jalsha.webp" group-title="Entertainment",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ch_69" tvg-name="Sananda TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sananda-tv.webp" group-title="Entertainment",Sananda TV
@@ -342,7 +342,7 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_170" tvg-name="3ABN Kids" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/3abn-kids.webp" group-title="Kids",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_171" tvg-name="Horrah Kids" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pbs-kids.webp" group-title="Kids",Horrah Kids
+#EXTINF:-1 tvg-id="ch_171" tvg-name="Hooray Kids" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hooray-kids.webp" group-title="Kids",Hooray Kids
 https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/5cc02970-213a-4eea-af2f-6a0dc11ca3a3/0.m3u8
 #EXTINF:-1 tvg-id="ch_172" tvg-name="ZB Cartoon" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zb-cartoon.webp" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
