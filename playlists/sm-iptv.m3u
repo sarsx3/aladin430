@@ -310,7 +310,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009255
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/ZnnTZCFq/1000114955.png" group-title="Indian Bangla",Sun Bangla
-https://app-zibo-play40.tvhunter.top/newr/SUN.BANGLA.HD.m3u8
+http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="https://i.postimg.cc/t47yzhKV/sm-zee-babgla-sonar.webp" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -474,7 +474,7 @@ https://app-zibo-play40.tvhunter.top/newr/DISCOVERY.HD.m3u8
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="National geo wild" tvg-logo="https://i.postimg.cc/VvYnwgLs/nat-geo-wild.png" group-title="Documentory",National geo wild
-https://app-zibo-play40.tvhunter.top/newr/NATGEO.WILD.HD.m3u8
+https://sm-monirul.xyz/my_server/live/nat-geo-wild/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Documentory",Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
