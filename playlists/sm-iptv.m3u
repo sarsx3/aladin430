@@ -248,8 +248,7 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DzJv7q53/sm-star-sports-select-1.webp" group-title="Sports",Star Sports Select 1 HD
-#EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/9Xpyp6Jd/star-sports-select-2.png" group-title="Sports",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=OTT-KING TV 1.0
@@ -353,7 +352,7 @@ http://103.151.60.162:2122/play/a01v/index.m3u8
 http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-name="Star Gold thrills" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-r9IOycdv_L_Yg0WCWPoPDUaYufTsaIh63KLqdEzGQ&s=10" group-title="Hindi",Star Gold thrills
-https://sm-monirul.xyz/ultra/ck.php?id=star_gold_tri&sm=.m3u8
+http://live1.entertv.com.bd:8080/ddd/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/dQrvvFfc/star-bharat.png" group-title="Hindi",Star Bharat
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
