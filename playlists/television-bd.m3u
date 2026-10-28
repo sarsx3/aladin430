@@ -229,9 +229,9 @@ https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
 #EXTINF:-1 tvg-id="ch_113" tvg-name="Colors Cineplex" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex.webp" group-title="Movies",Colors Cineplex
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="ch_114" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex-bollywood.webp" group-title="Movies",Colors Cineplex Bollywood
-http://202.70.146.135:8000/play/a058/index.m3u8
+http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="ch_115" tvg-name="Colors Cineplex Superhits" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex-superhits.webp" group-title="Movies",Colors Cineplex Superhits
-http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
+https://box.bbaria.net:8083/COLOR_CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_116" tvg-name="Goldmines" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goldmines.webp" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ch_117" tvg-name="Star Gold" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold.webp" group-title="Movies",Star Gold
@@ -321,7 +321,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3
 #EXTINF:-1 tvg-id="ch_159" tvg-name="Cartoon Network HD +" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cartoon-network-hd.webp" group-title="Kids",Cartoon Network HD +
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ch_160" tvg-name="Sonic" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sonic.webp" group-title="Entertainment",Sonic
-http://198.195.239.50:8095/sonic/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=90243&deviceMac=00:1A:79:0C:9F:58
 #EXTINF:-1 tvg-id="ch_161" tvg-name="Nick" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick.webp" group-title="Kids",Nick
 http://103.135.253.32:8080/NICK/index.m3u8
 #EXTINF:-1 tvg-id="ch_162" tvg-name="Nick HD+" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-hd.webp" group-title="Kids",Nick HD+
