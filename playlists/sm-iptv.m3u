@@ -350,13 +350,16 @@ https://app-re.sm-monirul-islam-rs.workers.dev/star_gold/index.m3u8
 http://103.151.60.162:2122/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold Select hd" tvg-logo="https://i.postimg.cc/8kMDDGYQ/star-gold-select.png" group-title="Hindi",Star Gold Select hd
-https://mac.nocablenetwork.workers.dev/stream/9376.ts
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 tvg-name="Star Gold thrills" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-r9IOycdv_L_Yg0WCWPoPDUaYufTsaIh63KLqdEzGQ&s=10" group-title="Hindi",Star Gold thrills
+https://mac.nocablenetwork.workers.dev/stream/773735.ts
 
 #EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/dQrvvFfc/star-bharat.png" group-title="Hindi",Star Bharat
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP Bangla" tvg-logo="https://i.postimg.cc/28ShX0KZ/travel-xp.png" group-title="Hindi",Travel XP Bangla
-https://app-zibo-play40.tvhunter.top/newr/TRAVELXP.HD.m3u8
+https://sm-monirul.top/bds/live/TRAVEL-XP-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi",Colors Cineplex HD
 https://mac.nocablenetwork.workers.dev/stream/98908.ts
@@ -464,6 +467,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-name="ary tv" tvg-logo="https://i.postimg.cc/XJx2RBXx/sm-ary-tv.png" group-title="Hindi",ary tv
 https://live.incableinternet.com/ary-digital/master.m3u8
+
+#EXTINF:-1 tvg-name="History TV 18" tvg-logo="https://i.postimg.cc/XJ69H3R8/history-tv18.png" group-title="Hindi",History TV 18
+https://sm-monirul.top/bds/live/HISTORY-TV-18-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Documentory",Discovery Bangla
 https://app-zibo-play40.tvhunter.top/newr/DISCOVERY.HD.m3u8
