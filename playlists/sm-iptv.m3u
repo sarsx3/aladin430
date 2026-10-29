@@ -398,7 +398,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009246
 https://techandeat.online/sliv/stream.m3u8?id=1000009249
 
 #EXTINF:-1 tvg-name="Sony Max 1" tvg-logo="https://i.postimg.cc/k4Dv0q86/1000120489.jpg" group-title="Hindi",Sony Max 1
-https://bdtop1.tvhunter.top/max1/index.m3u8
+http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529-132238.png" group-title="Hindi",Sony Max 2
 #EXTVLCOPT:http-referrer=https://techandeat.online
