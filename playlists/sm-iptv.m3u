@@ -345,7 +345,7 @@ http://sm-monirul.xyz/my_server/live/star-gold/index.m3u8
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3ts
 
 #EXTINF:-1 tvg-name="Star Gold Select hd" tvg-logo="https://i.postimg.cc/8kMDDGYQ/star-gold-select.png" group-title="Hindi",Star Gold Select hd
-http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
+https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold thrills" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-r9IOycdv_L_Yg0WCWPoPDUaYufTsaIh63KLqdEzGQ&s=10" group-title="Hindi",Star Gold thrills
 http://live1.entertv.com.bd:8080/ddd/index.m3u8
