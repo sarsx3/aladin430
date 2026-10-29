@@ -339,13 +339,13 @@ https://sm-monirul.top/bds/live/HBO/index.m3u8
 https://mac.nocablenetwork.workers.dev/stream/4082.ts
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Hindi",Star Gold HD
-http://sm-monirul.xyz/my_server/live/star-gold/index.m3u8
+https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_hd&sm=.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold 2" tvg-logo="https://i.postimg.cc/6q3Qjm9p/star-gold-2.png" group-title="Hindi",Star Gold 2
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold Select hd" tvg-logo="https://i.postimg.cc/8kMDDGYQ/star-gold-select.png" group-title="Hindi",Star Gold Select hd
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3u8
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-name="Star Gold thrills" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-r9IOycdv_L_Yg0WCWPoPDUaYufTsaIh63KLqdEzGQ&s=10" group-title="Hindi",Star Gold thrills
 https://sm-monirul.xyz/ultra/ck.php?id=star_gold_tri&sm=.m3u8
