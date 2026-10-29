@@ -356,9 +356,6 @@ http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-name="Travel XP Bangla" tvg-logo="https://i.postimg.cc/28ShX0KZ/travel-xp.png" group-title="Hindi",Travel XP Bangla
 https://sm-monirul.top/bds/live/TRAVEL-XP-BANGLA/index.m3u8
 
-#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi",Colors Cineplex HD
-https://mac.nocablenetwork.workers.dev/stream/98908.ts
-
 #EXTINF:-1 tvg-name="Colors" tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202-090150.png" group-title="Hindi",Colors
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8
 
@@ -444,6 +441,9 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUfUOb0JURr2sR8aIFquATeQ6krMWpj6O12yJa_j6Hh7TZ_uEf85JbXimVmAy3sFGhxaSLy6bO2KvLxKTkApSOcmNEDNBjiMKvZa_xBXQXpAxccCQAkTTa4RBsgza4SljsLENgELFVScSlxaWlxYoKfs5ed5HEChWG5biR1EBwFIWGE0cNLB0qJhrzg/s1080/1000098991.png" group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Hindi",Colors Cineplex HD
+https://mac.nocablenetwork.workers.dev/stream/98908.ts
 
 #EXTINF:-1 tvg-name="MNX HD" tvg-logo="https://i.postimg.cc/5yxLJgNJ/mnx-hd.png" group-title="Hindi",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
