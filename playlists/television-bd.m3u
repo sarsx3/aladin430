@@ -165,7 +165,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="ch_81" tvg-name="Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp" group-title="Movies",Bangla Cinema
 http://103.151.60.162:2122/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="ch_82" tvg-name="Jalsha Movies" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jalsha-movies.webp" group-title="Movies",Jalsha Movies
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_83" tvg-name="Jalsha Movies HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-323.webp" group-title="Movies",Jalsha Movies HD
 https://livetv.shamon-cable.net:8443/Jalsha-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_84" tvg-name="Colors Bangla Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla-cinema.webp" group-title="Movies",Colors Bangla Cinema
