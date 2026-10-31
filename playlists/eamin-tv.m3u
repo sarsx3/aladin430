@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Eamin Tv
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Bangla",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 #EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Bangla",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Madani Bangla" tvg-logo="https://i.postimg.cc/1tDgdXVG/20250531-105059.png" group-title="Bangla",Madani Bangla
@@ -15,7 +15,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="Bangla",Ekattor HD
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="Bangla",Independent
-https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
+http://103.135.253.32:8080/Indipendent/index.m3u8
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/CLvtrv7h/20250529-073029.png" group-title="Bangla",SA TV
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-name="N TV" tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla",N TV
@@ -85,9 +85,9 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
 http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Indian Hindi",Colors Cineplex
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
-#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202-090307.png" group-title="Indian Hindi",Star Plus
+#EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202-090307.png" group-title="Indian Hindi",Star Plus HD
 http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
-#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Indian Hindi",Star Gold
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Indian Hindi",Star Gold HD
 http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="Indian Hindi",Zee Cinema HD
 https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
@@ -141,7 +141,7 @@ http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702-032050.png" group-title="Sports",Star Sports 2
-http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702-032238.png" group-title="Sports",Star Sports SL 1
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Star Sports SL 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002-225947.png" group-title="Sports",Star Sports SL 2
