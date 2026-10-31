@@ -1,17 +1,13 @@
 #EXTM3U
 #PLAYLIST:Eamin Tv
-#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321-075216.png" group-title="Islamic",Islamic TV
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321-075216.png" group-title="Bangla",Islamic TV
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
-#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Islamic",Peace TV Bangla
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Bangla",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Islamic",Iqra Bangla
+#EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Bangla",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="Madani Bangla" tvg-logo="https://i.postimg.cc/1tDgdXVG/20250531-105059.png" group-title="Islamic",Madani Bangla
+#EXTINF:-1 tvg-name="Madani Bangla" tvg-logo="https://i.postimg.cc/1tDgdXVG/20250531-105059.png" group-title="Bangla",Madani Bangla
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic",Quran TV
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="Iqraa TV" tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" group-title="Islamic",Iqraa TV
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla",BTV HD
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-name="Somoy Tv" tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="Bangla",Somoy Tv
@@ -21,7 +17,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="Bangla",Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="Bangla",Ekattor HD
-https://drk6xq0vhn.gpcdn.net/live/ekattor_tv_abr/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="Bangla",Independent
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/CLvtrv7h/20250529-073029.png" group-title="Bangla",SA TV
@@ -49,17 +45,11 @@ https://box.bbaria.net:8083/Nagorik_TV/index.m3u8
 #EXTINF:-1 tvg-name="Asian" tvg-logo="https://i.postimg.cc/PqvBwmmt/20250529-102106.png" group-title="Bangla",Asian
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/pVq6vZYV/20250729-030034.png" group-title="Bangla",Channel 9
-https://box.bbaria.net:8083/Channel9/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127-095813.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla",ATN Bangla
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 #EXTINF:-1 tvg-name="R TV" tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529-101852.png" group-title="Bangla",R TV
 https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
-#EXTINF:-1 tvg-name="Ekushe TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529-105209.png" group-title="Bangla",Ekushe TV
-https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/XvZ0gM06/20250529-104547.png" group-title="Bangla",Nexus TV
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="Bangla",Enter TV
 https://live1.entertv.com.bd/entertv/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Tv" tvg-logo="https://i.postimg.cc/tTWQLhTr/20250529-104243.png" group-title="Bangla",Bangla Tv
@@ -72,12 +62,8 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-name="My Tv" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529-103226.png" group-title="Bangla",My Tv
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1 tvg-name="Jonmo Bhumi" tvg-logo="https://i.postimg.cc/ncryrtRC/20260913-092606.png" group-title="Bangla",Jonmo Bhumi
-https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Drama 24" tvg-logo="https://i.postimg.cc/yN04KXfX/20260913-092650.png" group-title="Bangla",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-name="Deshi Tv" tvg-logo="https://i.postimg.cc/t4KQ8mzr/20260913-092735.png" group-title="Bangla",Deshi Tv
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="News 21" tvg-logo="https://i.postimg.cc/L8cKG0VB/20260913-092913.png" group-title="Bangla",News 21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalsha Bangla" tvg-logo="https://i.postimg.cc/FHM5wnxy/20260913-093445.png" group-title="Bangla",Jalsha Bangla
@@ -86,8 +72,6 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/nV38nLkH/20260913-092507.png" group-title="Bangla",Channel S
 https://box.bbaria.net:8083/ChannelS/video.m3u8
-#EXTINF:-1 tvg-name="Green TV" tvg-logo="https://i.postimg.cc/CMcywKNw/20260913-091922.png" group-title="Bangla",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="MatriBhumi TV" tvg-logo="https://i.postimg.cc/g0xWsM0M/20260930-231840.png" group-title="Bangla",MatriBhumi TV
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian Bangla",Star Jalsha HD
