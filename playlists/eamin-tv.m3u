@@ -61,9 +61,9 @@ https://box.bbaria.net:8083/ChannelS/video.m3u8
 #EXTINF:-1 tvg-name="MatriBhumi TV" tvg-logo="https://i.postimg.cc/g0xWsM0M/20260930-231840.png" group-title="Bangla",MatriBhumi TV
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian Bangla",Star Jalsha HD
-http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sboxcast
+http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="Indian Bangla",Zee Bangla HD
-http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast
+http://103.135.253.32:8080/ZEE-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602-220804.png" group-title="Indian Bangla",Colors Bangla HD
 http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian Bangla",Enter 10 Bangla
@@ -85,6 +85,10 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
 http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Indian Hindi",Colors Cineplex
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
+#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202-090307.png" group-title="Indian Hindi",Star Plus
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202-090224.png" group-title="Indian Hindi",Star Gold
+http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="Indian Hindi",Zee Cinema HD
 https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 #EXTINF:-1 tvg-name="Sony Television HD" tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529-131726.png" group-title="Indian Hindi",Sony Television HD
