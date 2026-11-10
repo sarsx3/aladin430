@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Eamin Tv
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Bangla",Peace TV Bangla
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Bangla",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Madani Bangla" tvg-logo="https://i.postimg.cc/1tDgdXVG/20250531-105059.png" group-title="Bangla",Madani Bangla
@@ -15,7 +15,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="Bangla",Ekattor HD
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="Bangla",Independent
-http://103.135.253.32:8080/Indipendent/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/CLvtrv7h/20250529-073029.png" group-title="Bangla",SA TV
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-name="N TV" tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla",N TV
@@ -127,7 +127,7 @@ https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-name="Durunto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127-095726.png" group-title="Kids",Durunto
 http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-http://103.135.253.32:8080/NICK/index.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529-115709.png" group-title="Kids",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/pXdcjfHg/20250529-115821.png" group-title="Kids",Discovery Kids
