@@ -173,7 +173,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="ch_85" tvg-name="Star Jalsha" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-jalsha.webp" group-title="Entertainment",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ch_86" tvg-name="Sananda TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sananda-tv.webp" group-title="Entertainment",Sananda TV
-https://live.sanandatelevision.in/sananda/index.m3u8
+http://27.124.71.27/Animal_Planet/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-id="ch_87" tvg-name="Colors Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla.webp" group-title="Entertainment",Colors Bangla
 http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-id="ch_88" tvg-name="Zee Bangla Sonar" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-sonar.webp" group-title="Entertainment",Zee Bangla Sonar
@@ -203,9 +203,9 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="ch_100" tvg-name="Enterr10 Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/enterr10-bangla.webp" group-title="Entertainment",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_101" tvg-name="Sony Aath" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-aath.webp" group-title="Entertainment",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/live/sony_c1kn7tv9qm3lx5w/chunks.m3u8
+https://app.uckingcrazy1.workers.dev/api/play/SONY%20AATH.m3u8
 #EXTINF:-1 tvg-id="ch_102" tvg-name="Sun Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sun-bangla.webp" group-title="Entertainment",Sun Bangla
-http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8
+https://bdx-m3u8.pages.dev/sunbangla.m3u8
 #EXTINF:-1 tvg-id="ch_103" tvg-name="Ruposhi Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ruposhi-bangla.webp" group-title="Entertainment",Ruposhi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="ch_104" tvg-name="Star Plus" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-plus.webp" group-title="Entertainment",Star Plus
@@ -495,7 +495,7 @@ http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-id="ch_247" tvg-name="Travel XP" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/travel-xp.webp" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_248" tvg-name="T Sports" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/t-sports.webp" group-title="Sports",T Sports
-http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-id="ch_249" tvg-name="PTV Sports" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ptv-sports.webp" group-title="Sports",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_250" tvg-name="Star Sports 1" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-1.webp" group-title="Sports",Star Sports 1
