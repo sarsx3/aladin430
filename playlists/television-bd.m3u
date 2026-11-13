@@ -107,7 +107,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="ch_52" tvg-name="MY TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-tv.webp" group-title="Entertainment",MY TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 #EXTINF:-1 tvg-id="ch_53" tvg-name="Matribhumi TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/matribhumi-tv.webp" group-title="Entertainment",Matribhumi TV
-http://live.playmax.live/matribhumi/index.m3u8
+http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-id="ch_54" tvg-name="Jago News 24" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jago-news-24.webp" group-title="News",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_55" tvg-name="Gazi TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/gazi-tv.webp" group-title="Entertainment",Gazi TV
@@ -207,7 +207,7 @@ https://bdx-m3u8.pages.dev/sunbangla.m3u8
 #EXTINF:-1 tvg-id="ch_102" tvg-name="Ruposhi Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ruposhi-bangla.webp" group-title="Entertainment",Ruposhi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="ch_103" tvg-name="Star Plus" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-plus.webp" group-title="Entertainment",Star Plus
-http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8
+http://38.96.178.205/STARPLUS/index.m3u8
 #EXTINF:-1 tvg-id="ch_104" tvg-name="DD Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dd-bangla.webp" group-title="Entertainment",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-id="ch_105" tvg-name="TV9 Bangla" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv9-bangla.webp" group-title="Entertainment",TV9 Bangla
@@ -227,13 +227,13 @@ https://prod-linear-media.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8?edge
 #EXTINF:-1 tvg-id="ch_112" tvg-name="HUM Masala" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum-masala.webp" group-title="Entertainment",HUM Masala
 https://prod-linear-media.toffeelive.com/cdn/live/hum_masala/playlist.m3u8?edge-cache-token=Expires=1794564174~Starts=1794564054~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=muqUAFfAKQTCvDueVfoiPVGmqS25T3QRLwAYd3nH-RNRM14s1yE7zAg4RI8ftrLgp4SxqN6_VAD1llWKnFjXCw
 #EXTINF:-1 tvg-id="ch_113" tvg-name="Zee TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-tv.webp" group-title="Entertainment",Zee TV
-http://103.135.253.32:8080/ZEE-TV/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8?edge-cache-token=Expires=1794564176~Starts=1794564056~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=WoOLsbXOzjZYtELyECDlEAbNU-9IaAlUDKt1XVfqgyuiXJg_OauX2Zc-lq8EesCOIiVGFzPro-ZhuIa4Q8QCCA
 #EXTINF:-1 tvg-id="ch_114" tvg-name="&TV HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv-hd.webp" group-title="Entertainment",&TV HD
 https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1794567659~Starts=1794564059~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=_KNh2WD1hp1OoKpXgnr09JwgycHrHT74lqTHqoNPXq-QzChSzrTDwxR22uDz_bYjIS9byzse5_HFwmqYPY21AA
 #EXTINF:-1 tvg-id="ch_115" tvg-name="& Pictures" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pictures.webp" group-title="Movies",& Pictures
 https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1794564179~Starts=1794564059~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=w9xmkwJ-Si1E7yAFUyQUb8IuF51vGEhXQncBnAsvpn9oxYU4ChfLaXQ5Tfr_ZHhORM2eOarnV_lnuUTr9KxaBg
 #EXTINF:-1 tvg-id="ch_116" tvg-name="& Pictures HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pictures-hd.webp" group-title="Movies",& Pictures HD
-http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1794564179~Starts=1794564059~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=w9xmkwJ-Si1E7yAFUyQUb8IuF51vGEhXQncBnAsvpn9oxYU4ChfLaXQ5Tfr_ZHhORM2eOarnV_lnuUTr9KxaBg
 #EXTINF:-1 tvg-id="ch_117" tvg-name="Sony Kal" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-kal.webp" group-title="Entertainment",Sony Kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_118" tvg-name="Sony Sab HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-sab.webp" group-title="Entertainment",Sony Sab HD
@@ -253,7 +253,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="ch_125" tvg-name="MTV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mtv.webp" group-title="Entertainment",MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8
 #EXTINF:-1 tvg-id="ch_126" tvg-name="B4U Movies" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/b4u-movies.webp" group-title="Movies",B4U Movies
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8?edge-cache-token=Expires=1794564177~Starts=1794564057~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=kW9be5geWSCodvUBjQKdb0pKJ9TqfW_B17IEs-WcTheLuWEibwthvf4zu-Ok0cQUsClBZntaGL0CBZTX00bTCg
 #EXTINF:-1 tvg-id="ch_127" tvg-name="The Movie Club" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/the-movie-club.webp" group-title="Movies",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-id="ch_128" tvg-name="Hindi Movie Classic 24" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-movie-classic-24.webp" group-title="Movies",Hindi Movie Classic 24
@@ -269,21 +269,21 @@ https://box.bbaria.net:8083/COLOR_CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_133" tvg-name="Goldmines" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goldmines.webp" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ch_134" tvg-name="Star Gold" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold.webp" group-title="Movies",Star Gold
-http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-id="ch_135" tvg-name="Star Gold 2" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold-2.webp" group-title="Movies",Star Gold 2
 http://107.167.16.138/stargold2/tracks-v1a1/mono.ts.m3u8?token=test
 #EXTINF:-1 tvg-id="ch_136" tvg-name="Star Gold Select" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold-select.webp" group-title="Movies",Star Gold Select
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-id="ch_137" tvg-name="Bhojpuri Cinema" group-title="Movies",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_138" tvg-name="Zee Cinema" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-cinema.webp" group-title="Movies",Zee Cinema
-http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-id="ch_139" tvg-name="Zee Action" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-action.webp" group-title="Entertainment",Zee Action
 https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_140" tvg-name="HBO" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo.webp" group-title="Entertainment",HBO
 https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1 tvg-id="ch_141" tvg-name="HBO 2" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo-2.webp" group-title="Entertainment",HBO 2
-https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
+http://190.108.91.206:9050/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="ch_142" tvg-name="BBC Drama" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bbc-drama.webp" group-title="Entertainment",BBC Drama
 https://99adc0db1ea547049b45555275bbfb1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-938-BBCDRAMA-VIZIO/mt/vizio/938/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_143" tvg-name="MY Time" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-time.webp" group-title="Entertainment",MY Time
@@ -309,9 +309,9 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ch_153" tvg-name="Movies Now" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/movies-now.webp" group-title="Movies",Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 #EXTINF:-1 tvg-id="ch_154" tvg-name="Star Movies" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies.webp" group-title="Movies",Star Movies
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-id="ch_155" tvg-name="Star Movies Select" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies-select.webp" group-title="Movies",Star Movies Select
-http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-id="ch_156" tvg-name="Hollywood HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hollywood-hd.webp" group-title="Entertainment",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-id="ch_157" tvg-name="Music Bangla" group-title="Music",Music Bangla
@@ -371,13 +371,13 @@ https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="ch_184" tvg-name="Sonic" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sonic.webp" group-title="Entertainment",Sonic
 http://tv.cloudcdn.me/live.ts?channelId=90243&deviceMac=00:1A:79:0C:9F:58
 #EXTINF:-1 tvg-id="ch_185" tvg-name="Nick" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick.webp" group-title="Kids",Nick
-http://103.135.253.32:8080/NICK/index.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-id="ch_186" tvg-name="Nick HD+" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-hd.webp" group-title="Kids",Nick HD+
 http://223.25.71.211:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="ch_187" tvg-name="Nick JR" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-jr.webp" group-title="Kids",Nick JR
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
+http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="ch_188" tvg-name="Nicklodean" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nicklodean.webp" group-title="Kids",Nicklodean
-https://tvsen7.aynascope.net/nicklodean/index.m3u8
+http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-id="ch_189" tvg-name="Teen Nick" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/teen-nick.webp" group-title="Kids",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTINF:-1 tvg-id="ch_190" tvg-name="EPIX TV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epix-tv.webp" group-title="Entertainment",EPIX TV
@@ -400,6 +400,8 @@ http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
 #EXTINF:-1 tvg-id="ch_199" tvg-name="Disnep Channel HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-channel-hd.webp" group-title="Entertainment",Disnep Channel HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+#EXTINF:-1 tvg-id="ch_200" tvg-name="Disnep Channel" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-channel.webp" group-title="Entertainment",Disnep Channel
+http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1 tvg-id="ch_201" tvg-name="Disney Jr." tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-jr.webp" group-title="Entertainment",Disney Jr.
 http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="ch_202" tvg-name="Zoo Moo" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zoo-moo.webp" group-title="Entertainment",Zoo Moo
@@ -479,7 +481,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-id="ch_239" tvg-name="Investigation Discovery HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/investigation-discovery-hd.webp" group-title="Documentary",Investigation Discovery HD
 https://prod-linear-media.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?edge-cache-token=Expires=1794567644~Starts=1794564044~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=gbE5624DUNB_5YWgapdZRIQ0o8VUZHOla8NDmICxTbz32SXl8wQo8tkmQbvb4qQ9Xj3WBW4n71DYh3iZqQj4CQ
 #EXTINF:-1 tvg-id="ch_240" tvg-name="Discovery" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery.webp" group-title="Documentary",Discovery
-http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8?edge-cache-token=Expires=1794567644~Starts=1794564044~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=gbE5624DUNB_5YWgapdZRIQ0o8VUZHOla8NDmICxTbz32SXl8wQo8tkmQbvb4qQ9Xj3WBW4n71DYh3iZqQj4CQ
 #EXTINF:-1 tvg-id="ch_241" tvg-name="Discovery HD" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-hd.webp" group-title="Documentary",Discovery HD
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 #EXTINF:-1 tvg-id="ch_242" tvg-name="HGTV" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hgtv.webp" group-title="Entertainment",HGTV
