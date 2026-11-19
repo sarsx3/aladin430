@@ -211,12 +211,12 @@ https://toffee.sm-monirul-islam-rs.workers.dev/discovery_hd/index.m3u8
 https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentory",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
-#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports
-https://livetv.shamon-cable.net:8443/T-Sports-FHD/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-name="Willow" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
