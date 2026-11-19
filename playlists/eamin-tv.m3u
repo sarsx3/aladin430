@@ -200,7 +200,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.m3u8
 #EXTINF:-1 tvg-name="PTC Music" tvg-logo="https://i.postimg.cc/KYFJhFYp/Hridoy-TV-pro-(64).webp" group-title="Music",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529-122103.png" group-title="Music",B4U Music
-https://toffee.sm-monirul-islam-rs.workers.dev/b4u_music_abr/index.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/b4u_music/index.m3u8
 #EXTINF:-1 tvg-name="Bojopuri" tvg-logo="https://i.postimg.cc/VLG87B0t/20250630-045918.png" group-title="Music",Bojopuri
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/qR885pSD/20251002-231959.png" group-title="Documentory",Animal Planet HD
@@ -220,13 +220,13 @@ https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
-https://livetv.shamon-cable.net:8443/Star-sports-1/index.m3u8?token=scn
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702-032050.png" group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports SL 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702-032238.png" group-title="Sports",Star Sports SL 1
-https://livetv.shamon-cable.net:8443/Star-select-1/index.m3u8?token=scn
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Star Sports SL 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002-225947.png" group-title="Sports",Star Sports SL 2
-https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8?token=scn
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="Sports",Sony Ten 1
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009276
