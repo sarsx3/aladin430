@@ -105,7 +105,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="Indian Bangla",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602-220804.png" group-title="Indian Bangla",Colors Bangla HD
-https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8?token=scn
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian Bangla",Sony Aath
@@ -120,7 +120,7 @@ https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Indian Bangla",Zee Bangla Cinema
 https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Indian Bangla",Colors Bangla Cinema
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?token=scn
+http://103.114.11.37:8081/Colors-bangla-cinema/tracks-v1a1/mono.m3u8?token=scn
 #EXTINF:-1 tvg-name="Colors" tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202-090150.png" group-title="Indian Hindi",Colors
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="Indian Hindi",Colors Cineplex
@@ -175,7 +175,7 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-name="Gold Mines Bollywood" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest/scale-to-width-down/360?cb=20240404141630" group-title="Indian Hindi",Gold Mines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-name="Durunto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127-095726.png" group-title="Kids",Durunto
-https://livetv.shamon-cable.net:8443/Duronto/index.m3u8?token=scn
+http://103.114.11.37:8081/Duronto/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529-115709.png" group-title="Kids",Pogo
