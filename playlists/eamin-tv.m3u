@@ -57,7 +57,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-name="52 Channel" tvg-logo="https://i.postimg.cc/nhybNw1j/20260913-093359.png" group-title="Bangla",52 Channel
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704-201040.png" group-title="Bangla",G TV
-https://livetv.shamon-cable.net:8443/GaziTVHD/index.m3u8?token=scn
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nagorik" tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720-201346.png" group-title="Bangla",Nagorik
 https://box.bbaria.net:8083/Nagorik_TV/index.m3u8
 #EXTINF:-1 tvg-name="Asian" tvg-logo="https://i.postimg.cc/PqvBwmmt/20250529-102106.png" group-title="Bangla",Asian
@@ -116,7 +116,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="Indian Bangla",Jalsha Movies SD
 https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="Indian Bangla",Jalsha Movies HD
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Indian Bangla",Zee Bangla Cinema
 https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Indian Bangla",Colors Bangla Cinema
