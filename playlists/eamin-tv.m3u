@@ -215,7 +215,7 @@ http://27.124.71.27/Love_Nature/index.m3u8
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Ten Cricket
+#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8
 #EXTINF:-1 tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Cricbuzz
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8
@@ -243,17 +243,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529-123147.png" group-title="Sports",Sony Ten 5
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009275
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/GmFLynr7/20250529-130819.png" group-title="Sports",TNT Sports 1
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/27.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/4yY47KNV/20250529-130926.png" group-title="Sports",TNT Sports 2
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/28.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://i.postimg.cc/j2BxzsL9/20250529-131030.png" group-title="Sports",TNT Sports 3
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/29.m3u8
 #EXTINF:-1 tvg-name="BeiN Sports 1" tvg-logo="https://i.postimg.cc/855N9Fv9/20250529-125601.png" group-title="Sports",BeiN Sports 1
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/30.m3u8
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/34.m3u8
 #EXTINF:-1 tvg-name="BeiN Sports 2" tvg-logo="https://i.postimg.cc/RFD4BMQF/20250529-125806.png" group-title="Sports",BeiN Sports 2
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8
-#EXTINF:-1 tvg-name="BeiN Sports 3" tvg-logo="https://i.postimg.cc/yNn7LhD0/20250529-125913.png" group-title="Sports",BeiN Sports 3
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/32.m3u8
-#EXTINF:-1 tvg-name="BeiN Sports 4" tvg-logo="https://i.postimg.cc/kXHkthzv/20260912-132643.png" group-title="Sports",BeiN Sports 4
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/33.m3u8
