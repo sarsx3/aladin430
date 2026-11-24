@@ -216,11 +216,11 @@ http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/sony_ten_cricket/index.m3u8
 #EXTINF:-1 tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/tRNg8djq/20261123-222859.png" group-title="Sports",Cricbuzz
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8
 #EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/16.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/eurosport_hd/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports HD" tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529-123654.png" group-title="Sports",Willow Sports HD
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/24.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="Sports",Star Sports 1
