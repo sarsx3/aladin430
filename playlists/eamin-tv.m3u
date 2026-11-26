@@ -110,13 +110,13 @@ http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/60.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian Bangla",Sony Aath
 #EXTVLCOPT:http-referrer=https://techandeat.online
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/62.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009255
 #EXTINF:-1 tvg-name="Akash 8" tvg-logo="https://i.postimg.cc/PJ5V7VsN/20250711-062758.png" group-title="Indian Bangla",Akash 8
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="Indian Bangla",Jalsha Movies SD
 https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="Indian Bangla",Jalsha Movies HD
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/65.m3u8
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=scn
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="Indian Bangla",Zee Bangla Cinema
 https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="Indian Bangla",Colors Bangla Cinema
@@ -212,7 +212,7 @@ https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentory",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="Sports",T Sports HD
-http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="Sports",Ten Cricket
